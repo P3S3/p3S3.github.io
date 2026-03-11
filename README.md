@@ -33,6 +33,9 @@ Topics will include :
 * quantum information theory, quantum cryptography, quantum control
 * quantum algorithms and quantum computer science
 
+The objective of the school is to introduce the research on the mathematical aspects of quantum information, but also to initiate and strengthen collaborations between laboratories, students, and researchers from these communities, using the interest in beautiful mathematics as a guideline towards impactful research, but also as a catalyst for fruitful exchanges.
+
+
 ## Target audience
 * Master/PhD students or researchers with a background in AI/ML interested in the latest advances in generative AI.
 * Master/PhD students or researchers from other fields eager to explore the potential of generative AI for their work.
