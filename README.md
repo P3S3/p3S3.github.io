@@ -21,29 +21,17 @@ If you have any question, please ask Marie: marie.laveau@universite-paris-saclay
 
 ## Description
 
-The GenAI-School aims to provide an overview of the latest advances in generative AI, covering theoretical foundations, methodologies, and practical industrial applications beyond NLP. The program will introduce fundamental methodological tools and presentations from experts across diverse scientific fields.
+P3S3 is an international thematic Summer School (June 01-05, 2026) co-organized by Université Paris-Saclay (GS ISN) and Institut Polytechnique de Paris (IDIA department). Mathematical concepts and applied mathematics are playing a central role in quantum technologies, from foundations to applications. The purpose of P3S3 is to provide Master’s students, PhD students, and early-stage researchers with a dedicated week of courses given by international experts to learn, discover, and deepen their understanding of quantum information science and quantum technologies through the lens of mathematics and theoretical computer science.
 
-The basic methodological tools will be presented, and then speakers from different scientific fields will show the most recent applications and developments. The aim is to bring together various speakers to cover a broad range of fields of study and offer participants an overview of generative AI and its applications.
-The school will also be an excellent opportunity to build your network, discuss your research (during poster sessions and flash talks), and learn about post-doctorate opportunities.
+The school will consist of long (2h) tutorial talks, complemented by some shorter talks presenting some recent research results. It will also comprise mentoring sessions given by experienced professionals from academia and industry and poster sessions allowing participants to present and discuss their ongoing work.
 
-This event is co-organized by Université Paris-Saclay and Institut Polytechnique de Paris and co-financed by the DIM AI4IDF. 
+The first day will start with a comprehensive introduction to quantum information with a presentation of the key concepts and formalism. The goal will be to provide enough knowledge about quantum information and quantum computing to attendees with no prior background in these fields.
 
 Topics will include : 
 
-* Foundations of generative models: VAE, GAN, and diffusion models,
-* Large Language Models and advanced techniques (e.g., RAG),
-* Multimodal generation,
-* Frugal models,
-* Ethics of generative AI,
-* Applications of generative AI to :
-   * Audio synthesis,
-   * Climate change,
-   * Image and video generation,
-   * Medical data,
-   * Meteorology,
-   * Telecommunications and networking,
-   * Robotics
-   * ...
+* quantum foundations,
+* quantum information theory, quantum cryptography, quantum control
+* quantum algorithms and quantum computer science
 
 ## Target audience
 * Master/PhD students or researchers with a background in AI/ML interested in the latest advances in generative AI.
