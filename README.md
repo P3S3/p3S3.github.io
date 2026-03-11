@@ -8,8 +8,8 @@
            margin-left: auto;
            margin-right: auto;
            width: 20%;"
-    src="./Images/Logo P3S3.png" 
-    alt="P3S3 Logo">
+    src="./Images/Logo-P3S3.png" 
+    alt="P3S3-Logo">
 
 Institut Pascal <br>
 530 rue Andre Riviere - Université Paris-Saclay <br>
