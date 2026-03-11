@@ -8,13 +8,13 @@
            margin-left: auto;
            margin-right: auto;
            width: 20%;"
-    src="./Images/Logo_GenAI-SCHOOL.png" 
-    alt="GenAI-School Logo">
+    src="./Images/Logo P3S3_08.pdf" 
+    alt="P3S3_08 Logo">
 
-Grand Amphi <br>
-PUIO, Building 640, Université Paris-Saclay <br>
+Institut Pascal <br>
+530 rue Andre Riviere - Université Paris-Saclay <br>
 91400 Orsay<br>
-[https://maps.app.goo.gl/SfnGKoL126r63VJh6](https://maps.app.goo.gl/SfnGKoL126r63VJh6)
+[https://www.google.com/maps/place/Institut+Pascal/@48.7064935,2.1748841,17z/data=!3m1!4b1!4m6!3m5!1s0x47e679e313480623:0x6a2cd8a232755c5d!8m2!3d48.7064935!4d2.177459!16s%2Fg%2F11h3_y9h34?entry=ttu&g_ep=EgoyMDI2MDMwOS4wIKXMDSoASAFQAw%3D%3D]
 
 
 If you have any question, please ask Marie: marie.laveau@universite-paris-saclay.fr
