@@ -8,8 +8,8 @@
            margin-left: auto;
            margin-right: auto;
            width: 20%;"
-    src="./Images/Logo-P3S3.png" 
-    alt="P3S3-Logo">
+    src="./Images/Logo P3S3.jpg" 
+    alt="P3S3 Logo">
 
 Institut Pascal <br>
 530 rue Andre Riviere - Université Paris-Saclay <br>
@@ -40,37 +40,46 @@ The objective of the school is to introduce the research on the mathematical asp
 Master’s students, PhD students, and researchers from academia and industry with a taste for mathematics (prerequisites typically include linear algebra and probability theory) and quantum information science.
 We welcome international applications, and a few “housing” grants will be allocated to support international (Master’s or PhD) students, covering housing and registration fees.
 
-## Important Dates
+## Application and Registration: a 2-phase procedure
+To participate in the summer school, you will first have to apply, and then, after a review process, you will receive a link to register.
+
+## Application 
+Depending on your status, information will be asked: 
+* Master and PhD student: CV and a motivation letter 
+* Academic: link to your personal page
+* Industry: CV
+  
+There will be two rounds for applications:
+
 * From March 11 to March 30 (23:59 Paris time). Notification of acceptance: after April 15. 
 * From April 1 to April *15* (23:59 Paris time). Notification of acceptance: after May *4*. 
+
+Application form: https://admin-sphinx.universite-paris-saclay.fr/SurveyServer/s/GSchimieCompSci/InscriptionP3S3-school/questionnaire.htm
+
+## Registration
+After the notification of acceptance, you will receive the link to register definitely and pay the fees. 
+
+## Registration Fees
+* Students (Master and PhD students): 100€
+* Academics: 250€
+* Industry: 500€
+  
+The fees will cover lectures, coffee breaks, lunches, the social event, and the gala dinner.
+Please note that accommodation and travel costs are not covered.
+
+You can pay with a bank transfer or a ‘bon de commande’ (participants from French companies or institutions for this latter option).
+Payment with a credit card is not available.
+If you need a bill, be aware that there may be a delay. 
+
+## Important Date
 * **School: 01-05 June 2026**
 
-All deadlines are 23:59 AoE (UTC-12)
-
 ## Speakers 
-
+TBA
 ### Keynote
-* **[Xavier Alameda-Pineda](http://xavirema.eu/)** - Inria at University Grenoble Alpes, Grenoble, France
-* **[Antoine Bosselut](https://atcbosselut.github.io/)** - EPFL
-* **[Claire Boyer](https://www.imo.universite-paris-saclay.fr/~claire.boyer/)** - Sorbonne University
-* **[Merouane Debbah](https://www.ku.ac.ae/college-people/merouane-debbah)** - Khalifa University
-* **[Manuel Faysse](https://manuelfay.github.io/#)** - CentraleSupélec, Université Paris-Saclay/Illuin Technology
-* **[Vicky Kalogeiton](https://vicky.kalogeiton.info/)** - LIX, IPP
-* **[Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/)** - Ecole Polytechnique
-* **[Claire Monteleoni](https://www.colorado.edu/faculty/claire-monteleoni/)** - University of Colorado Boulder/INRIA
-* **[Alasdair Newson](https://sites.google.com/site/alasdairnewson/)** - Sorbonne Université
-* **[Gaël Richard](https://www.telecom-paris.fr/gael-richard)** - IPP/Télécom Paris
-* **[Yunhao (Robin) Tang](https://robintyh1.github.io/)** - Meta GenAI London
-* **[Denis Trystam](https://datamove.imag.fr/denis.trystram/)** - Grenoble INP
-
-
+TBA
 ### Lab session 
-* **[Manuel Faysse](https://manuelfay.github.io/#)** - CentraleSupélec, Université Paris-Saclay/Illuin Technology
-* **[Badr Moufad](https://github.com/Badr-MOUFAD)** - LIX, IPP
-* **[Yazid Janati](https://yazidjanati.github.io/)** - LIX, IPP
-* **[Yunhao (Robin) Tang](https://robintyh1.github.io/)** - Meta GenAI London
-* **Xi Wang** - LIX, IPP
-
+TBA
 More information about the speakers [here](./speakers).
 
 <img 
