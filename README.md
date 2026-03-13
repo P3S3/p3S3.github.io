@@ -74,6 +74,12 @@ If you need a bill, be aware that there may be a delay.
 ## Important Date
 * **School: 01-05 June 2026**
 
+## Organizers
+* Maïwenn Racouchot
+* Sorina 
+* Nesrines 
+* Julien 
+
 ## Speakers 
 TBA
 ### Keynote
