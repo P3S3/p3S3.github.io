@@ -14,10 +14,10 @@
 Institut Pascal <br>
 530 rue Andre Riviere - Université Paris-Saclay <br>
 91400 Orsay<br>
-[https://www.google.com/maps/place/Institut+Pascal/@48.7064935,2.1748841,17z/data=!3m1!4b1!4m6!3m5!1s0x47e679e313480623:0x6a2cd8a232755c5d!8m2!3d48.7064935!4d2.177459!16s%2Fg%2F11h3_y9h34?entry=ttu&g_ep=EgoyMDI2MDMwOS4wIKXMDSoASAFQAw%3D%3D]
+https://www.google.com/maps/place/Institut+Pascal/@48.7064935,2.1748841,17z/data=!3m1!4b1!4m6!3m5!1s0x47e679e313480623:0x6a2cd8a232755c5d!8m2!3d48.7064935!4d2.177459!16s%2Fg%2F11h3_y9h34?entry=ttu&g_ep=EgoyMDI2MDMwOS4wIKXMDSoASAFQAw%3D%3D
 
 
-If you have any question, please ask Marie: marie.laveau@universite-paris-saclay.fr
+If you have any question, please ask: gs.isn@universite-paris-saclay.fr
 
 ## Description
 
@@ -37,18 +37,13 @@ The objective of the school is to introduce the research on the mathematical asp
 
 
 ## Target audience
-* Master/PhD students or researchers with a background in AI/ML interested in the latest advances in generative AI.
-* Master/PhD students or researchers from other fields eager to explore the potential of generative AI for their work.
+Master’s students, PhD students, and researchers from academia and industry with a taste for mathematics (prerequisites typically include linear algebra and probability theory) and quantum information science.
+We welcome international applications, and a few “housing” grants will be allocated to support international (Master’s or PhD) students, covering housing and registration fees.
 
-If you fit either description, this autumn school is for you!
-    
 ## Important Dates
-* First round application deadline: 16th of June 2024
-* Notification to applicants: 30th of June 2024
-* Second round application deadline: 16th of July 2024
-* Notification to applicants: 30th of July 2024
-* Master students notification: after the 15th of September 2024
-* **School: 21-25 October 2024**
+* From March 11 to March 30 (23:59 Paris time). Notification of acceptance: after April 15. 
+* From April 1 to April *15* (23:59 Paris time). Notification of acceptance: after May *4*. 
+* **School: 01-05 June 2026**
 
 All deadlines are 23:59 AoE (UTC-12)
 
