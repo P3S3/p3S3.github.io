@@ -2,7 +2,7 @@
 | [**Important Dates**](#important-dates)
 | [**Speakers**](#speakers)
 
-![Bannière](./images/Bandeau-web-P3S3_1920x600px.jpg)
+![Bannière](./Images/Bandeau-web-P3S3.jpg)
 
 <img 
     style="display: block; 
