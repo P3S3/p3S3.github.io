@@ -93,5 +93,5 @@ More information about the speakers [here](./speakers).
            margin-left: auto;
            margin-right: auto;
            width: 90%;"
-    src="./Images/sponsors1.png" 
+    src="./Images/Logo-Sponsors.png" 
     alt="Logos Sponsors">
