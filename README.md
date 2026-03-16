@@ -84,9 +84,6 @@ If you need a bill, be aware that there may be a delay.
 TBA
 ### Keynote
 TBA
-### Lab session 
-TBA
-More information about the speakers [here](./speakers).
 
 <img 
     style="display: block; 
