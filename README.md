@@ -75,13 +75,6 @@ If you need a bill, ask us, and be aware that there may be a delay.
 
 All deadlines are in UTC+1 (Paris time). 
 
-# Organizers
-* Maïwenn Racouchot, LMF, Université Paris-Saclay 
-* Sorina Ionica, DAVID, UVSQ, Université Paris-Saclay
-* Nesrine Kaaniche, Télécom Sud Paris, Institut Polytechnique de Paris 
-* Julien Signoles, CEA List, Université Paris-Saclay
-* Marie Laveau, GS ISN, Université Paris-Saclay
-
 # Keynote Speakers (not stabilized)
 * **[Besson Frédéric](https://people.rennes.inria.fr/Frederic.Besson/)** - Inria, Univ Rennes, CNRS, IRISA
 * **[Boudguiga Aymen](https://aymen0b.github.io/)** - CEA                                                            
@@ -92,7 +85,15 @@ All deadlines are in UTC+1 (Paris time).
 * **[Izabachene Malika](https://izama.github.io/)** - ETIS UMR 8051, CY Cergy Paris Université, ENSEA, CNRS  
 * **[Levallois-Barth Claire](https://cv.hal.science/claire-levallois-barth)** - IMT Atlantique, DI2S
 * **[Palamidessi Catuscia](https://www.lix.polytechnique.fr/~catuscia/)** - COMETE, LIX, INRIA Saclay, IPP
-    
+
+# Organizers
+* Maïwenn Racouchot, LMF, Université Paris-Saclay 
+* Sorina Ionica, DAVID, UVSQ, Université Paris-Saclay
+* Nesrine Kaaniche, Télécom Sud Paris, Institut Polytechnique de Paris 
+* Julien Signoles, CEA List, Université Paris-Saclay
+* Marie Laveau, GS ISN, Université Paris-Saclay
+
+ 
 <img 
     style="display: block; 
            margin-left: auto;
