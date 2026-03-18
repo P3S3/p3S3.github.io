@@ -1,6 +1,6 @@
 
 [**Description**](#description)
-| [**Application**](#Application)
+| [**Application**](#Application-and-Registration-a-2-phase-procedure)
 | [**Important Dates**](#important-dates)
 | [**Speakers**](#speakers)
 
@@ -8,7 +8,7 @@
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 20%;"
+           width: 40%;"
     src="./Images/Logo P3S3.jpg" 
     alt="P3S3 Logo">
 
@@ -19,7 +19,7 @@ Institut Pascal <br>
 
 If you have any question, please ask: gs.isn@universite-paris-saclay.fr
 
-### Description
+# Description
 
 P3S3 is an international thematic Summer School to be held from June 1 to June 5, 2026, co-organized by Université Paris-Saclay (Graduate School ISN)and Institut Polytechnique de Paris at the Institut Pascal.
 
@@ -49,10 +49,10 @@ There will be two rounds for applications:
 
 Application form: [https://admin-sphinx.universite-paris-saclay.fr/SurveyServer/s/GSchimieCompSci/InscriptionP3S3-school/questionnaire.htm](https://admin-sphinx.universite-paris-saclay.fr/SurveyServer/s/GSchimieCompSci/InscriptionP3S3-school/questionnaire.htm)
 
-# Registration
+## Registration
 After the notification of acceptance, you will receive the link to register and how to pay the fees. 
 
-## Registration Fees
+### Registration Fees
 * Students (Master and PhD students): 100€
 * Academics: 250€
 * Industry: 500€
