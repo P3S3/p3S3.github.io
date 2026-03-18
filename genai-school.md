@@ -1,6 +1,6 @@
 layout: page
-title: "Paris GenAI-School 2024"
+title: "Privacy, Protocols & Proofs Saclay Summer School"
 permalink: /
 
 
-Paris Generative AI Autumn School (Paris GenAI-School)
+Privacy, Protocols & Proofs Saclay Summer School (P3S3)
