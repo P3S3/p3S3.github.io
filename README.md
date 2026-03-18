@@ -19,7 +19,7 @@ Institut Pascal <br>
 
 If you have any question, please ask: gs.isn@universite-paris-saclay.fr
 
-## Description
+### Description
 
 P3S3 is an international thematic Summer School to be held from June 1 to June 5, 2026, co-organized by Université Paris-Saclay (Graduate School ISN)and Institut Polytechnique de Paris at the Institut Pascal.
 
