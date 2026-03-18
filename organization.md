@@ -8,4 +8,3 @@
   
 ## Local Arrangement
 * **Marie Laveau**, *Université Paris-Saclay*
-* **Almira Musa**, *Université Paris-Saclay*
