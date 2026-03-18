@@ -35,29 +35,26 @@ Topics will include :
 
 The objective of the school is to introduce the research on the mathematical aspects of quantum information, but also to initiate and strengthen collaborations between laboratories, students, and researchers from these communities, using the interest in beautiful mathematics as a guideline towards impactful research, but also as a catalyst for fruitful exchanges.
 
-
-## Target audience
-Master’s students, PhD students, and researchers from academia and industry with a taste for mathematics (prerequisites typically include linear algebra and probability theory) and quantum information science.
-We welcome international applications, and a few “housing” grants will be allocated to support international (Master’s or PhD) students, covering housing and registration fees.
-
 ## Application and Registration: a 2-phase procedure
 To participate in the summer school, you will first have to apply, and then, after a review process, you will receive a link to register.
+We welcome european applications, and a few “housing” grants will be allocated to support PhD students, covering housing and registration fees.
 
 ## Application 
 Depending on your status, information will be asked: 
-* Master and PhD student: CV and a motivation letter 
-* Academic: link to your personal page
-* Industry: CV
+* PhD student: CV and motivation letter 
+* Academic & Industry : CV
   
 There will be two rounds for applications:
 
-* From March 11 to March 30 (23:59 Paris time). Notification of acceptance: after April 15. 
-* From April 1 to April *15* (23:59 Paris time). Notification of acceptance: after May *4*. 
+* From March 11 to March 30 (23:59 Paris time).
+  Notification of acceptance: after April 15. 
+* From April 1 to April 15 (23:59 Paris time).
+  Notification of acceptance: after May 4. 
 
 Application form: https://admin-sphinx.universite-paris-saclay.fr/SurveyServer/s/GSchimieCompSci/InscriptionP3S3-school/questionnaire.htm
 
 ## Registration
-After the notification of acceptance, you will receive the link to register definitely and pay the fees. 
+After the notification of acceptance, you will receive the link to register and pay the fees. 
 
 ## Registration Fees
 * Students (Master and PhD students): 100€
@@ -75,14 +72,13 @@ If you need a bill, be aware that there may be a delay.
 * **School: 01-05 June 2026**
 
 ## Organizers
-* Maïwenn Racouchot
-* Sorina 
-* Nesrines 
-* Julien 
+* Maïwenn Racouchot, LMF, Université Paris-Saclay 
+* Sorina Ionica, DAVID, UVSQ, Université Paris-Saclay
+* Nesrine Kaaniche, Télécom Sud Paris, Institut Polytechnique de Paris 
+* Julien Signoles, CEA List, Université Paris-Saclay
+* Marie Laveau, GS ISN, Univerité Paris-Saclay
 
-## Speakers 
-TBA
-### Keynote
+## Keynote Speakers 
 TBA
 
 <img 
