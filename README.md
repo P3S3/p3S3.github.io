@@ -1,4 +1,3 @@
-![Bannière](./Images/Bandeau-web-P3S3.jpg)
 
 [**Description**](#description)
 | [**Important Dates**](#important-dates)
