@@ -83,7 +83,9 @@ All deadlines are in UTC+1 (Paris time).
 * Marie Laveau, GS ISN, Université Paris-Saclay
 
 # Keynote Speakers 
-TBA
+* Besson Frédéric, Inria, Univ Rennes, CNRS, IRISA
+* Debant Alexandre, Inria, Nancy 
+* Izabachene Malika, ETIS UMR 8051, CY Cergy Paris Université, ENSEA, CNRS
 
 <img 
     style="display: block; 
