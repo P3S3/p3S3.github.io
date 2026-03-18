@@ -1,3 +1,2 @@
 ## Program 
-
-TBA
+![alt text](Images/planning-sans-invites.png "Schedule")
