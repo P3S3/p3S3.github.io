@@ -1,6 +1,6 @@
 
 [**Description**](#description)
-| [**Application**](#Application-and-Registration:-a-2-phase-procedure)
+| [**Application**](#Application)
 | [**Important Dates**](#important-dates)
 | [**Speakers**](#speakers)
 
@@ -33,18 +33,18 @@ P3S3 is primarily aimed at PhD students, as well as early-stage researchers, and
 
 ## Application and Registration: a 2-phase procedure
 To participate in the summer school, you will first have to apply, and then, after a review process, you will receive a link to register.
-We welcome european applications, and a few “housing” grants will be allocated to support PhD students, covering housing and registration fees.
+We welcome European applications, and a few “housing” grants will be allocated to support PhD students, covering housing and registration fees.
 
 ## Application 
 Depending on your status, information will be asked: 
 * PhD student: CV and motivation letter 
-* Academic & Industry : CV
+* Academic & Industry: CV
   
 There will be two rounds for applications:
 
-* From March 11 to March 30 (23:59 Paris time).
+* First round: From March 11 to March 30 (23:59 Paris time).
   Notification of acceptance: after April 15. 
-* From April 1 to April 15 (23:59 Paris time).
+* Second round: From April 1 to April 15 (23:59 Paris time).
   Notification of acceptance: after May 4. 
 
 Application form: [https://admin-sphinx.universite-paris-saclay.fr/SurveyServer/s/GSchimieCompSci/InscriptionP3S3-school/questionnaire.htm](https://admin-sphinx.universite-paris-saclay.fr/SurveyServer/s/GSchimieCompSci/InscriptionP3S3-school/questionnaire.htm)
@@ -60,19 +60,25 @@ After the notification of acceptance, you will receive the link to register and 
 The fees will cover lectures, coffee breaks, lunches, the social event, and the gala dinner.
 Please note that accommodation and travel costs are not covered.
 
-You can pay with a bank transfer or a ‘bon de commande’ (participants from French companies or institutions for this latter option).
-Payment with a credit card is not available.
-If you need a bill, be aware that there may be a delay. 
+You can pay by bank transfer or a ‘bon de commande’ (this latter option is only for participants from French companies or institutions).
+Payment by credit card is not available.
+If you need a bill, ask us, and be aware that there may be a delay. 
 
 ## Important Date
-* **School: 01-05 June 2026**
+* First round application deadline: March 30.
+* Notification of acceptance: after April 15. 
+* Second round application deadline: April 15.
+* Notification of acceptance: after May 4. 
+* **School: 01-05 June 2026**     
+
+All deadlines are in UTC+1 (Paris time). 
 
 ## Organizers
 * Maïwenn Racouchot, LMF, Université Paris-Saclay 
 * Sorina Ionica, DAVID, UVSQ, Université Paris-Saclay
 * Nesrine Kaaniche, Télécom Sud Paris, Institut Polytechnique de Paris 
 * Julien Signoles, CEA List, Université Paris-Saclay
-* Marie Laveau, GS ISN, Univerité Paris-Saclay
+* Marie Laveau, GS ISN, Université Paris-Saclay
 
 ## Keynote Speakers 
 TBA
