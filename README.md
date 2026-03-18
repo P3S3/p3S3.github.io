@@ -82,10 +82,16 @@ All deadlines are in UTC+1 (Paris time).
 * Julien Signoles, CEA List, Université Paris-Saclay
 * Marie Laveau, GS ISN, Université Paris-Saclay
 
-# Keynote Speakers 
+# Keynote Speakers (not stabilized)
 * Besson Frédéric, Inria, Univ Rennes, CNRS, IRISA
-* Debant Alexandre, Inria, Nancy 
-* Izabachene Malika, ETIS UMR 8051, CY Cergy Paris Université, ENSEA, CNRS
+* Boudguiga Aymen,                                                                 https://aymen0b.github.io/
+* Cremers Cas, CISPA Helmholtz Center for Information Security                     https://cispa.de/en/people/cas.cremers
+* Debant Alexandre, Inria, Nancy
+* Faonio Antonio, EURECOM, Sophia Antipolis                                        https://faonio.eurecom.io/
+* Feneuil Thibault, CryptoExperts                                                  https://www.thibauld-feneuil.fr/
+* Izabachene Malika, ETIS UMR 8051, CY Cergy Paris Université, ENSEA, CNRS         https://izama.github.io/
+* Levallois-Barth Claire, IMT Atlantique, DI2S
+* Palamidessi Catuscia, COMETE, LIX, INRIA Saclay, IPP                             https://www.lix.polytechnique.fr/~catuscia/
 
 <img 
     style="display: block; 
