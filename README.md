@@ -84,15 +84,15 @@ All deadlines are in UTC+1 (Paris time).
 
 # Keynote Speakers (not stabilized)
 * Besson Frédéric, Inria, Univ Rennes, CNRS, IRISA
-* Boudguiga Aymen, CEA                                                              https://aymen0b.github.io/
-* Cremers Cas, CISPA Helmholtz Center for Information Security                     https://cispa.de/en/people/cas.cremers
+* **[Boudguiga Aymen](https://aymen0b.github.io/)** - CEA                                                            
+* **[Cremers Cas](https://cispa.de/en/people/cas.cremers)** - CISPA Helmholtz Center for Information Security
 * Debant Alexandre, Inria, Nancy
-* Faonio Antonio, EURECOM, Sophia Antipolis                                        https://faonio.eurecom.io/
-* Feneuil Thibault, CryptoExperts                                                  https://www.thibauld-feneuil.fr/
-* Izabachene Malika, ETIS UMR 8051, CY Cergy Paris Université, ENSEA, CNRS         https://izama.github.io/
+* **[Faonio Antonio](https://faonio.eurecom.io/)** - EURECOM, Sophia Antipolis                                     
+* **[Feneuil Thibault](https://www.thibauld-feneuil.fr/)** - CryptoExperts                                            
+* **[Izabachene Malika](https://izama.github.io/)** - ETIS UMR 8051, CY Cergy Paris Université, ENSEA, CNRS  
 * Levallois-Barth Claire, IMT Atlantique, DI2S
-* Palamidessi Catuscia, COMETE, LIX, INRIA Saclay, IPP                             https://www.lix.polytechnique.fr/~catuscia/
-
+* **[Palamidessi Catuscia](https://www.lix.polytechnique.fr/~catuscia/)** - COMETE, LIX, INRIA Saclay, IPP
+      
 <img 
     style="display: block; 
            margin-left: auto;
