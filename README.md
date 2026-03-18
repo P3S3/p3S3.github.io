@@ -1,5 +1,6 @@
 
 [**Description**](#description)
+| [**Application**](#Application-and-Registration:-a-2-phase-procedure)
 | [**Important Dates**](#important-dates)
 | [**Speakers**](#speakers)
 
@@ -16,24 +17,19 @@ Institut Pascal <br>
 91400 Orsay<br>
 [https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8](https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8) 
 
-
 If you have any question, please ask: gs.isn@universite-paris-saclay.fr
 
 ## Description
 
-P3S3 is an international thematic Summer School (June 01-05, 2026) co-organized by Université Paris-Saclay (GS ISN) and Institut Polytechnique de Paris (IDIA department). Mathematical concepts and applied mathematics are playing a central role in quantum technologies, from foundations to applications. The purpose of P3S3 is to provide Master’s students, PhD students, and early-stage researchers with a dedicated week of courses given by international experts to learn, discover, and deepen their understanding of quantum information science and quantum technologies through the lens of mathematics and theoretical computer science.
+P3S3 is an international thematic Summer School to be held from June 1 to June 5, 2026, co-organized by Université Paris-Saclay (Graduate School ISN)and Institut Polytechnique de Paris at the Institut Pascal.
 
-The school will consist of long (2h) tutorial talks, complemented by some shorter talks presenting some recent research results. It will also comprise mentoring sessions given by experienced professionals from academia and industry and poster sessions allowing participants to present and discuss their ongoing work.
+Data protection, security, and privacy are central challenges in modern information technologies, spanning both theoretical foundations and practical applications. The main objective of P3S3 is to provide an in-depth introduction to these topics through the presentation of several cryptographic protocols, from their underlying mathematical principles to their concrete real-world deployment. A second objective of the school is to introduce formal methods and tools for analyzing the security of these protocols. To this end, the program is structured around several main thematic areas:
 
-The first day will start with a comprehensive introduction to quantum information with a presentation of the key concepts and formalism. The goal will be to provide enough knowledge about quantum information and quantum computing to attendees with no prior background in these fields.
+* cryptographic protocols: zero-knowledge proofs, homomorphic encryption, and electronic voting
+* formal methods for security analysis: protocols and code analysis
+* privacy-enhancing technologies (PETS): technical and legal aspects 
 
-Topics will include : 
-
-* quantum foundations,
-* quantum information theory, quantum cryptography, quantum control
-* quantum algorithms and quantum computer science
-
-The objective of the school is to introduce the research on the mathematical aspects of quantum information, but also to initiate and strengthen collaborations between laboratories, students, and researchers from these communities, using the interest in beautiful mathematics as a guideline towards impactful research, but also as a catalyst for fruitful exchanges.
+P3S3 is primarily aimed at PhD students, as well as early-stage researchers, and offers a full week of lectures delivered by leading experts in these fields. In addition, by bringing together researchers from different communities, the school seeks to foster new interactions and strengthen collaborations.
 
 ## Application and Registration: a 2-phase procedure
 To participate in the summer school, you will first have to apply, and then, after a review process, you will receive a link to register.
@@ -51,10 +47,10 @@ There will be two rounds for applications:
 * From April 1 to April 15 (23:59 Paris time).
   Notification of acceptance: after May 4. 
 
-Application form: https://admin-sphinx.universite-paris-saclay.fr/SurveyServer/s/GSchimieCompSci/InscriptionP3S3-school/questionnaire.htm
+Application form: [https://admin-sphinx.universite-paris-saclay.fr/SurveyServer/s/GSchimieCompSci/InscriptionP3S3-school/questionnaire.htm](https://admin-sphinx.universite-paris-saclay.fr/SurveyServer/s/GSchimieCompSci/InscriptionP3S3-school/questionnaire.htm)
 
 ## Registration
-After the notification of acceptance, you will receive the link to register and pay the fees. 
+After the notification of acceptance, you will receive the link to register and how to pay the fees. 
 
 ## Registration Fees
 * Students (Master and PhD students): 100€
