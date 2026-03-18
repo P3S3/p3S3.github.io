@@ -84,7 +84,7 @@ All deadlines are in UTC+1 (Paris time).
 
 # Keynote Speakers (not stabilized)
 * Besson Frédéric, Inria, Univ Rennes, CNRS, IRISA
-* Boudguiga Aymen,                                                                 https://aymen0b.github.io/
+* Boudguiga Aymen, CEA                                                              https://aymen0b.github.io/
 * Cremers Cas, CISPA Helmholtz Center for Information Security                     https://cispa.de/en/people/cas.cremers
 * Debant Alexandre, Inria, Nancy
 * Faonio Antonio, EURECOM, Sophia Antipolis                                        https://faonio.eurecom.io/
