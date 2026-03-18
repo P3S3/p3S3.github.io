@@ -31,7 +31,7 @@ Data protection, security, and privacy are central challenges in modern informat
 
 P3S3 is primarily aimed at PhD students, as well as early-stage researchers, and offers a full week of lectures delivered by leading experts in these fields. In addition, by bringing together researchers from different communities, the school seeks to foster new interactions and strengthen collaborations.
 
-## Application and Registration: a 2-phase procedure
+# Application and Registration: a 2-phase procedure
 To participate in the summer school, you will first have to apply, and then, after a review process, you will receive a link to register.
 We welcome European applications, and a few “housing” grants will be allocated to support PhD students, covering housing and registration fees.
 
@@ -49,7 +49,7 @@ There will be two rounds for applications:
 
 Application form: [https://admin-sphinx.universite-paris-saclay.fr/SurveyServer/s/GSchimieCompSci/InscriptionP3S3-school/questionnaire.htm](https://admin-sphinx.universite-paris-saclay.fr/SurveyServer/s/GSchimieCompSci/InscriptionP3S3-school/questionnaire.htm)
 
-## Registration
+# Registration
 After the notification of acceptance, you will receive the link to register and how to pay the fees. 
 
 ## Registration Fees
@@ -64,7 +64,7 @@ You can pay by bank transfer or a ‘bon de commande’ (this latter option is o
 Payment by credit card is not available.
 If you need a bill, ask us, and be aware that there may be a delay. 
 
-## Important Date
+# Important Date
 * First round application deadline: March 30.
 * Notification of acceptance: after April 15. 
 * Second round application deadline: April 15.
@@ -73,14 +73,14 @@ If you need a bill, ask us, and be aware that there may be a delay.
 
 All deadlines are in UTC+1 (Paris time). 
 
-## Organizers
+# Organizers
 * Maïwenn Racouchot, LMF, Université Paris-Saclay 
 * Sorina Ionica, DAVID, UVSQ, Université Paris-Saclay
 * Nesrine Kaaniche, Télécom Sud Paris, Institut Polytechnique de Paris 
 * Julien Signoles, CEA List, Université Paris-Saclay
 * Marie Laveau, GS ISN, Université Paris-Saclay
 
-## Keynote Speakers 
+# Keynote Speakers 
 TBA
 
 <img 
