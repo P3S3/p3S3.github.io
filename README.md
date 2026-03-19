@@ -1,8 +1,8 @@
 
 [**Description**](#description)
 | [**Application**](#Application-and-Registration-a-2-step-procedure)
-| [**Important Date**](#Important-Date)
-| [**Lecturer**](#Lecturer-to-be-confirmed)
+| [**Important Dates**](#Important-Dates)
+| [**Lecturers**](#Lecturers-to-be-confirmed)
 
 
 <img 
@@ -67,16 +67,16 @@ You can pay by bank transfer or a ‘bon de commande’ (this latter option is o
 Payment by credit card is not available.
 If you need a bill, ask us, and be aware that there may be a delay. 
 
-# Important Date
+# Important Dates
 * First round application deadline: March 30.
 * Notification of acceptance: after April 15. 
 * Second round application deadline: April 15.
 * Notification of acceptance: after May 4. 
-* **School: 01-05 June 2026**     
+* **School: June 1-5, 2026**     
 
 All deadlines are in UTC+1 (Paris time). 
 
-# Lecturer (to be confirmed)
+# Lecturers (to be confirmed)
 * **[Besson Frédéric](https://people.rennes.inria.fr/Frederic.Besson/)** - Inria, Univ Rennes, CNRS, IRISA
 * **[Boudguiga Aymen](https://aymen0b.github.io/)** - Université Paris-Saclay, CEA, List                                                        
 * **[Cremers Cas](https://cispa.de/en/people/cas.cremers)** - CISPA Helmholtz Center for Information Security
@@ -86,6 +86,7 @@ All deadlines are in UTC+1 (Paris time).
 * **[Izabachene Malika](https://izama.github.io/)** - ETIS UMR 8051, CY Cergy Paris Université, ENSEA, CNRS  
 * **[Levallois-Barth Claire](https://cv.hal.science/claire-levallois-barth)** - IMT Atlantique, DI2S
 * **[Palamidessi Catuscia](https://www.lix.polytechnique.fr/~catuscia/)** - COMETE, LIX, INRIA Saclay, IPP
+* **[Belguith Sana](https://sculi.ac.uk/sana-belguith/)** - University of Bristol
 
 # Organizers
 * Maïwenn Racouchot, LMF, Université Paris-Saclay 
