@@ -1,4 +1,3 @@
-
 <img 
     style="display: block; 
            margin-left: auto;
