@@ -1,10 +1,4 @@
 
-[**Description**](#description)
-| [**Application**](#Application-and-Registration-a-2-step-procedure)
-| [**Important Dates**](#Important-Dates)
-| [**Lecturers**](#Lecturers-to-be-confirmed)
-
-
 <img 
     style="display: block; 
            margin-left: auto;
