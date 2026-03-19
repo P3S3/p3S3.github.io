@@ -75,7 +75,7 @@ If you need a bill, ask us, and be aware that there may be a delay.
 
 All deadlines are in UTC+1 (Paris time). 
 
-# Keynote Speakers (not stabilized)
+# Lecturer (to be confirmed)
 * **[Besson Frédéric](https://people.rennes.inria.fr/Frederic.Besson/)** - Inria, Univ Rennes, CNRS, IRISA
 * **[Boudguiga Aymen](https://aymen0b.github.io/)** - Université Paris-Saclay, CEA, List                                                        
 * **[Cremers Cas](https://cispa.de/en/people/cas.cremers)** - CISPA Helmholtz Center for Information Security
