@@ -77,7 +77,7 @@ All deadlines are in UTC+1 (Paris time).
 
 # Keynote Speakers (not stabilized)
 * **[Besson Frédéric](https://people.rennes.inria.fr/Frederic.Besson/)** - Inria, Univ Rennes, CNRS, IRISA
-* **[Boudguiga Aymen](https://aymen0b.github.io/)** - CEA                                                            
+* **[Boudguiga Aymen](https://aymen0b.github.io/)** - Université Paris-Saclay, CEA, List                                                        
 * **[Cremers Cas](https://cispa.de/en/people/cas.cremers)** - CISPA Helmholtz Center for Information Security
 * **[Debant Alexandre](https://members.loria.fr/ADebant/)** - Inria, Nancy
 * **[Faonio Antonio](https://faonio.eurecom.io/)** - EURECOM, Sophia Antipolis                                     
@@ -88,7 +88,7 @@ All deadlines are in UTC+1 (Paris time).
 
 # Organizers
 * Maïwenn Racouchot, LMF, Université Paris-Saclay 
-* Sorina Ionica, DAVID, UVSQ, Université Paris-Saclay
+* Sorina Ionica, LMV, UVSQ, Université Paris-Saclay
 * Nesrine Kaaniche, Télécom Sud Paris, Institut Polytechnique de Paris 
 * Julien Signoles, CEA List, Université Paris-Saclay
 * Marie Laveau, GS ISN, Université Paris-Saclay
