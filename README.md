@@ -1,8 +1,8 @@
 
 [**Description**](#description)
 | [**Application**](#Application-and-Registration-a-2-step-procedure)
-| [**Important Dates**](#important-dates)
-| [**Speakers**](#speakers)
+| [**Important Dates**](#Important-Date)
+| [**Speakers**](#Speakers)
 
 
 <img 
