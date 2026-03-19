@@ -31,7 +31,7 @@ Data protection, security, and privacy are central challenges in modern informat
 
 P3S3 is primarily aimed at PhD students, as well as early-stage researchers, and offers a full week of lectures delivered by leading experts in these fields. In addition, by bringing together researchers from different communities, the school seeks to foster new interactions and strengthen collaborations.
 
-# Application and Registration: a 2-phase procedure
+# Application and Registration: a 2-step procedure
 To participate in the summer school, you will first have to apply, and then, after a review process, you will receive a link to register.
 We welcome European applications, and a few “housing” grants will be allocated to support PhD students, covering housing and registration fees.
 
