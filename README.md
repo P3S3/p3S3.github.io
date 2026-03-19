@@ -2,7 +2,7 @@
 [**Description**](#description)
 | [**Application**](#Application-and-Registration-a-2-step-procedure)
 | [**Important Date**](#Important-Date)
-| [**Lecturer**](#Lecturer)
+| [**Lecturer**](#Lecturer-to-be-confirmed)
 
 
 <img 
