@@ -1,8 +1,9 @@
 
 [**Description**](#description)
-| [**Application**](#Application-and-Registration-a-2-phase-procedure)
+| [**Application**](#Application-and-Registration-a-2-step-procedure)
 | [**Important Dates**](#important-dates)
 | [**Speakers**](#speakers)
+
 
 <img 
     style="display: block; 
