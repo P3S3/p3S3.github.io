@@ -21,7 +21,7 @@ If you have any question, please ask: gs.isn@universite-paris-saclay.fr
 
 # Description
 
-P3S3 is an international thematic Summer School to be held from June 1 to June 5, 2026, co-organized by Université Paris-Saclay (Graduate School ISN)and Institut Polytechnique de Paris at the Institut Pascal.
+P3S3 is an international thematic Summer School to be held from June 1 to June 5, 2026, co-organized by Université Paris-Saclay (Graduate School ISN) and Institut Polytechnique de Paris at the Institut Pascal.
 
 Data protection, security, and privacy are central challenges in modern information technologies, spanning both theoretical foundations and practical applications. The main objective of P3S3 is to provide an in-depth introduction to these topics through the presentation of several cryptographic protocols, from their underlying mathematical principles to their concrete real-world deployment. A second objective of the school is to introduce formal methods and tools for analyzing the security of these protocols. To this end, the program is structured around several main thematic areas:
 
