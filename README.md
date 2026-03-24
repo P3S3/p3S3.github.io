@@ -77,9 +77,9 @@ All deadlines are in UTC+1 (Paris time).
 * **[Faonio Antonio](https://faonio.eurecom.io/)** - EURECOM, Sophia Antipolis                                     
 * **[Feneuil Thibault](https://www.thibauld-feneuil.fr/)** - CryptoExperts                                            
 * **[Izabachene Malika](https://izama.github.io/)** - ETIS UMR 8051, CY Cergy Paris Université, ENSEA, CNRS  
-* **[Levallois-Barth Claire](https://cv.hal.science/claire-levallois-barth)** - IMT Atlantique, DI2S
+* **[Levallois-Barth Claire](https://cv.hal.science/claire-levallois-barth)** - Directrice d'études en droit du numérique, IMT Atlantique
 * **[Palamidessi Catuscia](https://www.lix.polytechnique.fr/~catuscia/)** - COMETE, LIX, INRIA Saclay, IPP
-* **[Belguith Sana](https://sculi.ac.uk/sana-belguith/)** - University of Bristol
+* **[Belguith Sana](https://sculi.ac.uk/sana-belguith/)** - School of Computer Science, the University of Bristol, UK
 
 # Organizers
 * Maïwenn Racouchot, LMF, Université Paris-Saclay 
