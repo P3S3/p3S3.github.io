@@ -80,6 +80,8 @@ All deadlines are in UTC+1 (Paris time).
 * **[Levallois-Barth Claire](https://www.imt-atlantique.fr/fr/personne/claire-levallois-barth)** - Directrice d'études en droit du numérique, IMT Atlantique
 * **[Palamidessi Catuscia](https://www.lix.polytechnique.fr/~catuscia/)** - COMETE, LIX, INRIA Saclay, IPP
 * **[Belguith Sana](https://www.bristol.ac.uk/people/person/Sana-Belguith-697f20a9-c9f2-4b7b-b2c7-a68f10fca1a4/)** - School of Computer Science, the University of Bristol, UK
+  
+More information about the program [here](https://p3s3.github.io/program).
 
 # Organizers
 * **[Maïwenn Racouchot](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dblp.org/pid/353/7545&ved=2ahUKEwiro62JoruTAxXYQ6QEHYh3FFwQFnoECB8QAQ&usg=AOvVaw0KugDbwU1MCjXNpM9FNfsA)** - LMF, Université Paris-Saclay
@@ -87,9 +89,6 @@ All deadlines are in UTC+1 (Paris time).
 * **[Nesrine Kaaniche](https://scholar.google.com/citations?user=eYnrxhgAAAAJ&hl=en)** - Télécom Sud Paris, Institut Polytechnique de Paris  
 * **[Julien Signoles](https://julien-signoles.fr)** - CEA List, Université Paris-Saclay 
 * **[Marie Laveau](https://laveaumarie.github.io)** - GS ISN, Université Paris-Saclay
-
-
-More information about the program [here](https://p3s3.github.io/program).
  
 <img 
     style="display: block; 
