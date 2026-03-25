@@ -11,6 +11,8 @@ Institut Pascal <br>
 91400 Orsay, France<br>
 [https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8](https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8) 
 
+More information about the venue [here](venue.md).
+
 If you have any question, please ask: gs.isn@universite-paris-saclay.fr
 
 # Description
