@@ -8,8 +8,7 @@
 
 Institut Pascal <br>
 530 rue Andre Riviere - Université Paris-Saclay <br>
-91400 Orsay 
-France<br>
+91400 Orsay, France<br>
 [https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8](https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8) 
 
 If you have any question, please ask: gs.isn@universite-paris-saclay.fr
