@@ -88,6 +88,8 @@ All deadlines are in UTC+1 (Paris time).
 * **[Julien Signoles](https://julien-signoles.fr)** - CEA List, Université Paris-Saclay 
 * **[Marie Laveau](https://laveaumarie.github.io)** - GS ISN, Université Paris-Saclay
 
+
+More information about the program [here](https://p3s3.github.io/program).
  
 <img 
     style="display: block; 
