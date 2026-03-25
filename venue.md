@@ -1,1 +1,1 @@
-The school will take place in the Institut Pascal, 530 rue Andre Riviere - Université Paris-Saclay - 91400 Orsay [https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8](https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8).
+The school will take place in the Institut Pascal, 530 rue Andre Riviere - Université Paris-Saclay - 91400 Orsay, France [https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8](https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8).
