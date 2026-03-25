@@ -69,7 +69,7 @@ If you need a bill, ask us, and be aware that there may be a delay.
 
 All deadlines are in UTC+1 (Paris time). 
 
-# Lecturers (to be confirmed)
+# Lecturers
 * **[Besson Frédéric](https://people.rennes.inria.fr/Frederic.Besson/)** - Inria, Univ Rennes, CNRS, IRISA
 * **[Boudguiga Aymen](https://aymen0b.github.io/)** - Université Paris-Saclay, CEA, List                                                        
 * **[Cremers Cas](https://cispa.de/en/people/cas.cremers)** - CISPA Helmholtz Center for Information Security
@@ -82,11 +82,11 @@ All deadlines are in UTC+1 (Paris time).
 * **[Belguith Sana](https://www.bristol.ac.uk/people/person/Sana-Belguith-697f20a9-c9f2-4b7b-b2c7-a68f10fca1a4/)** - School of Computer Science, the University of Bristol, UK
 
 # Organizers
-* Maïwenn Racouchot, LMF, Université Paris-Saclay 
-* Sorina Ionica, LMV, UVSQ, Université Paris-Saclay
-* Nesrine Kaaniche, Télécom Sud Paris, Institut Polytechnique de Paris 
-* Julien Signoles, CEA List, Université Paris-Saclay
-* Marie Laveau, GS ISN, Université Paris-Saclay
+* **[Maïwenn Racouchot](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dblp.org/pid/353/7545&ved=2ahUKEwiro62JoruTAxXYQ6QEHYh3FFwQFnoECB8QAQ&usg=AOvVaw0KugDbwU1MCjXNpM9FNfsA)** - LMF, Université Paris-Saclay
+* **[Sorina Ionica](https://home.mis.u-picardie.fr/~ionica/)** - LMV, UVSQ, Université Paris-Saclay
+* **[Nesrine Kaaniche](https://scholar.google.com/citations?user=eYnrxhgAAAAJ&hl=en)** - Télécom Sud Paris, Institut Polytechnique de Paris  
+* **[Julien Signoles](https://julien-signoles.fr)** - CEA List, Université Paris-Saclay 
+* **[Marie Laveau](https://laveaumarie.github.io)** - GS ISN, Université Paris-Saclay
 
  
 <img 
