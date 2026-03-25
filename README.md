@@ -75,7 +75,7 @@ All deadlines are in UTC+1 (Paris time).
 * **[Cremers Cas](https://cispa.de/en/people/cas.cremers)** - CISPA Helmholtz Center for Information Security
 * **[Debant Alexandre](https://members.loria.fr/ADebant/)** - Inria, Nancy
 * **[Faonio Antonio](https://faonio.eurecom.io/)** - EURECOM, Sophia Antipolis                                     
-* **[Feneuil Thibault](https://www.thibauld-feneuil.fr/)** - CryptoExperts                                            
+* **[Feneuil Thibauld](https://www.thibauld-feneuil.fr/)** - CryptoExperts                                            
 * **[Izabachene Malika](https://izama.github.io/)** - ETIS UMR 8051, CY Cergy Paris Université, ENSEA, CNRS  
 * **[Levallois-Barth Claire](https://www.imt-atlantique.fr/fr/personne/claire-levallois-barth)** - Directrice d'études en droit du numérique, IMT Atlantique
 * **[Palamidessi Catuscia](https://www.lix.polytechnique.fr/~catuscia/)** - COMETE, LIX, INRIA Saclay, IPP
