@@ -6,6 +6,14 @@
     src="./Images/Logo P3S3.jpg" 
     alt="P3S3 Logo">
 
+  <img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 40%;"
+    src="./Images/Institut-Pascal.jpeg" 
+    alt="Pascal Institut">
+
 Institut Pascal <br>
 530 rue Andre Riviere - Université Paris-Saclay <br>
 91400 Orsay, France<br>
