@@ -78,7 +78,7 @@ All deadlines are in UTC+1 (Paris time).
 * **[Debant Alexandre](https://members.loria.fr/ADebant/)** - Inria, Nancy
 * **[Faonio Antonio](https://faonio.eurecom.io/)** - EURECOM, Sophia Antipolis                                     
 * **[Feneuil Thibauld](https://www.thibauld-feneuil.fr/)** - CryptoExperts                                            
-* **[Izabachene Malika](https://izama.github.io/)** - ETIS UMR 8051, CY Cergy Paris Université, ENSEA, CNRS  
+* **[Izabachène Malika](https://izama.github.io/)** - ETIS UMR 8051, CY Cergy Paris Université, ENSEA, CNRS  
 * **[Levallois-Barth Claire](https://www.imt-atlantique.fr/fr/personne/claire-levallois-barth)** - Directrice d'études en droit du numérique, IMT Atlantique
 * **[Palamidessi Catuscia](https://www.lix.polytechnique.fr/~catuscia/)** - COMETE, LIX, INRIA Saclay, IPP
 * **[Belguith Sana](https://www.bristol.ac.uk/people/person/Sana-Belguith-697f20a9-c9f2-4b7b-b2c7-a68f10fca1a4/)** - School of Computer Science, the University of Bristol, UK
