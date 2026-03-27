@@ -72,16 +72,16 @@ If you need a bill, ask us, and be aware that there may be a delay.
 All deadlines are in UTC+1 (Paris time). 
 
 # Lecturers
+* **[Belguith Sana](https://www.bristol.ac.uk/people/person/Sana-Belguith-697f20a9-c9f2-4b7b-b2c7-a68f10fca1a4/)** - School of Computer Science, the University of Bristol, UK
 * **[Besson Frédéric](https://people.rennes.inria.fr/Frederic.Besson/)** - Inria, Univ Rennes, CNRS, IRISA
-* **[Boudguiga Aymen](https://aymen0b.github.io/)** - Université Paris-Saclay, CEA, List                                                        
+* **[Boudguiga Aymen](https://aymen0b.github.io/)** - CEA LIST, Université Paris-Saclay                                                       
 * **[Cremers Cas](https://cispa.de/en/people/cas.cremers)** - CISPA Helmholtz Center for Information Security
 * **[Debant Alexandre](https://members.loria.fr/ADebant/)** - Inria, Nancy
 * **[Faonio Antonio](https://faonio.eurecom.io/)** - EURECOM, Sophia Antipolis                                     
 * **[Feneuil Thibauld](https://www.thibauld-feneuil.fr/)** - CryptoExperts                                            
 * **[Izabachène Malika](https://izama.github.io/)** - ETIS, CY Cergy Paris Université, ENSEA, CNRS  
-* **[Levallois-Barth Claire](https://www.imt-atlantique.fr/fr/personne/claire-levallois-barth)** - Directrice d'études en droit du numérique, IMT Atlantique
-* **[Palamidessi Catuscia](https://www.lix.polytechnique.fr/~catuscia/)** - COMETE, LIX, INRIA Saclay, IPP
-* **[Belguith Sana](https://www.bristol.ac.uk/people/person/Sana-Belguith-697f20a9-c9f2-4b7b-b2c7-a68f10fca1a4/)** - School of Computer Science, the University of Bristol, UK
+* **[Levallois-Barth Claire](https://www.imt-atlantique.fr/fr/personne/claire-levallois-barth)** - IMT Atlantique
+* **[Palamidessi Catuscia](https://www.lix.polytechnique.fr/~catuscia/)** - LIX, INRIA Saclay, IPP
   
 More information about the program [here](https://p3s3.github.io/program).
 
