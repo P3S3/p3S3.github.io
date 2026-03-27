@@ -1,2 +1,2 @@
-## Program (can be changed)
+## Program (may evolve)
 ![alt text](Images/planning-sans-invites.png "Schedule")
