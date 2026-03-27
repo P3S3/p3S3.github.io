@@ -1,8 +1,8 @@
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
 
   <img 
-    src="./Images/Logo P3S3.jpg" 
-    alt="P3S3 Logo"
+    src="./Images/Institut-Pascal.jpeg" 
+    alt="Pascal Institut"
     style="width: 220px; max-width: 100%;">
 
   <div>
