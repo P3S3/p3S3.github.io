@@ -1,27 +1,23 @@
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 40%;"
-    src="./Images/Logo P3S3.jpg" 
-    alt="P3S3 Logo">
+<div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
 
   <img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 40%;"
-    src="./Images/Institut-Pascal.jpeg" 
-    alt="Pascal Institut">
+    src="./Images/Logo P3S3.jpg" 
+    alt="P3S3 Logo"
+    style="width: 220px; max-width: 100%;">
 
-Institut Pascal <br>
-530 rue Andre Riviere - Université Paris-Saclay <br>
-91400 Orsay, France<br>
-[https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8](https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8) 
+  <div>
+    <p><strong>Institut Pascal</strong><br>
+    530 rue Andre Riviere - Université Paris-Saclay <br>
+    91400 Orsay, France<br>
+    <a href="https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8">View on map</a></p>
 
-More information about the venue [here](venue.md).
+ <p>More information about the venue <a href="venue.md">here</a>.</p>
 
-If you have any question, please ask: gs.isn@universite-paris-saclay.fr
+<p>If you have any question, please ask: gs.isn@universite-paris-saclay.fr</p>
+    
+  </div>
+
+</div>
 
 # Description
 
