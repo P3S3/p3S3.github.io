@@ -96,12 +96,13 @@ More information about the program [here](https://p3s3.github.io/program).
 * **[Kaaniche Nesrine](https://scholar.google.com/citations?user=eYnrxhgAAAAJ&hl=en)** - Télécom Sud Paris, Institut Polytechnique de Paris
 * **[Laveau Marie](https://laveaumarie.github.io)** - GS ISN, Université Paris-Saclay
 * **[Racouchot Maïwenn](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dblp.org/pid/353/7545&ved=2ahUKEwiro62JoruTAxXYQ6QEHYh3FFwQFnoECB8QAQ&usg=AOvVaw0KugDbwU1MCjXNpM9FNfsA)** - LMF, Université Paris-Saclay
-* **[Signoles Julien](https://julien-signoles.fr)** - CEA List, Université Paris-Saclay 
+* **[Signoles Julien](https://julien-signoles.fr)** - CEA List, Université Paris-Saclay
+  
  
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
            width: 90%;"
-    src="./Images/Logo-Sponsors.png" 
-    alt="Logos Sponsors">
+    src="./Images/Logo-footer.png" 
+    alt="Logo footer">
