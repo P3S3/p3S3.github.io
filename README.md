@@ -11,7 +11,7 @@
     91400 Orsay, France<br>
     <a href="https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8">View on map</a></p>
     
-More information about the venue [here](venue.md).
+<p>More information about the venue <a href="/venue.html">here</a>.</p>
 
 <p>If you have any question, please ask: gs.isn@universite-paris-saclay.fr</p>
     
