@@ -4,7 +4,7 @@ The school will take place in the Institut Pascal, 530 rue Andre Riviere - Unive
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
  <a href="https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8" target="_blank">
-    <img src="Images/Institut-pascal.jpeg" width="300">
+    <img src="Images/Institut-Pascal.jpeg" width="300">
   </a>
 
   <a href="https://maps.app.goo.gl/R8eZxAFVfTzs4zjA8" target="_blank">
