@@ -86,11 +86,11 @@ All deadlines are in UTC+1 (Paris time).
 More information about the program [here](https://p3s3.github.io/program).
 
 # Organizers
-* **[Maïwenn Racouchot](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dblp.org/pid/353/7545&ved=2ahUKEwiro62JoruTAxXYQ6QEHYh3FFwQFnoECB8QAQ&usg=AOvVaw0KugDbwU1MCjXNpM9FNfsA)** - LMF, Université Paris-Saclay
-* **[Sorina Ionica](https://home.mis.u-picardie.fr/~ionica/)** - LMV, UVSQ, Université Paris-Saclay
-* **[Nesrine Kaaniche](https://scholar.google.com/citations?user=eYnrxhgAAAAJ&hl=en)** - Télécom Sud Paris, Institut Polytechnique de Paris  
-* **[Julien Signoles](https://julien-signoles.fr)** - CEA List, Université Paris-Saclay 
-* **[Marie Laveau](https://laveaumarie.github.io)** - GS ISN, Université Paris-Saclay
+* **[Racouchot Maïwenn](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dblp.org/pid/353/7545&ved=2ahUKEwiro62JoruTAxXYQ6QEHYh3FFwQFnoECB8QAQ&usg=AOvVaw0KugDbwU1MCjXNpM9FNfsA)** - LMF, Université Paris-Saclay
+* **[Ionica Sorina](https://home.mis.u-picardie.fr/~ionica/)** - LMV, UVSQ, Université Paris-Saclay
+* **[Kaaniche Nesrine](https://scholar.google.com/citations?user=eYnrxhgAAAAJ&hl=en)** - Télécom Sud Paris, Institut Polytechnique de Paris  
+* **[Signoles Julien](https://julien-signoles.fr)** - CEA List, Université Paris-Saclay 
+* **[Laveau Marie](https://laveaumarie.github.io)** - GS ISN, Université Paris-Saclay
  
 <img 
     style="display: block; 
