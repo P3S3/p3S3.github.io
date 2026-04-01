@@ -2,7 +2,6 @@
 | [**Application and Registration**](#application-and-registration)
 | [**Important Dates**](#important-dates)
 | [**Lecturers**](#lecturers)
-| [**Organizers**](#organizers)
 
 
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
