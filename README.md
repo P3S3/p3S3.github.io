@@ -1,6 +1,6 @@
 [**Description**](#description)
-| [**Application and Registration**](#applicationandregistration)
-| [**Important Dates**](#importantdates)
+| [**Application and Registration**](#application-and-registration)
+| [**Important Dates**](#important-dates)
 | [**Lecturers**](#lecturers)
 | [**Organizers**](#organizers)
 
