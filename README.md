@@ -1,3 +1,10 @@
+[**Description**](#description)
+| [**Application and Registration**](#applicationandregistration)
+| [**Important Dates**](#importantdates)
+| [**Lecturers**](#lecturers)
+| [**Organizers**](#organizers)
+
+
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
 
   <img 
@@ -19,7 +26,7 @@
 
 </div>
 
-# Description
+## Description
 
 P3S3 is an international thematic Summer School to be held from June 1 to June 5, 2026, co-organized by Université Paris-Saclay (Graduate School ISN) and Institut Polytechnique de Paris at the Institut Pascal.
 
@@ -33,7 +40,7 @@ P3S3 is primarily aimed at PhD students, as well as early-stage researchers, and
 
 Participants will also have the opportunity to present a poster.
 
-# Application and Registration
+## Application and Registration
 
 ## A 2-step procedure
 To participate in the summer school, you will first have to apply, and then, after a review process, you will receive a link to register.
@@ -72,7 +79,7 @@ You can pay by bank transfer or a ‘bon de commande’ (this latter option is o
 Payment by credit card is not available.
 If you need a bill, ask us, and be aware that there may be a delay. 
 
-# Important Dates
+## Important Dates
 * First round application deadline: March 30.
 * Notification of acceptance: after April 15. 
 * Second round application deadline: April 15.
@@ -81,7 +88,7 @@ If you need a bill, ask us, and be aware that there may be a delay.
 
 All deadlines are in UTC+1 (Paris time). 
 
-# Lecturers
+## Lecturers
 * **[Belguith Sana](https://www.bristol.ac.uk/people/person/Sana-Belguith-697f20a9-c9f2-4b7b-b2c7-a68f10fca1a4/)** - School of Computer Science, the University of Bristol, UK
 * **[Besson Frédéric](https://people.rennes.inria.fr/Frederic.Besson/)** - Inria, Univ Rennes, CNRS, IRISA
 * **[Boudguiga Aymen](https://aymen0b.github.io/)** - CEA LIST, Université Paris-Saclay                                                       
@@ -95,7 +102,7 @@ All deadlines are in UTC+1 (Paris time).
   
 More information about the program [here](https://p3s3.github.io/program).
 
-# Organizers
+## Organizers
 * **[Ionica Sorina](https://home.mis.u-picardie.fr/~ionica/)** - LMV, UVSQ, Université Paris-Saclay
 * **[Kaaniche Nesrine](https://scholar.google.com/citations?user=eYnrxhgAAAAJ&hl=en)** - Télécom Sud Paris, Institut Polytechnique de Paris
 * **[Laveau Marie](https://laveaumarie.github.io)** - GS ISN, Université Paris-Saclay
