@@ -3,8 +3,9 @@
 | [**Important Dates**](#important-dates)
 | [**Lecturers**](#lecturers)
 
-
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
+
+
 
   <img 
     src="./Images/Institut-Pascal.jpeg" 
