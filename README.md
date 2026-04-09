@@ -109,7 +109,6 @@ More information about the program [here](https://p3s3.github.io/program).
 * **[Racouchot Maïwenn](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dblp.org/pid/353/7545&ved=2ahUKEwiro62JoruTAxXYQ6QEHYh3FFwQFnoECB8QAQ&usg=AOvVaw0KugDbwU1MCjXNpM9FNfsA)** - LMF, Université Paris-Saclay
 * **[Signoles Julien](https://julien-signoles.fr)** - CEA List, Université Paris-Saclay
   
- Logo-Sponsors.png
 <img 
     style="display: block; 
            margin-left: auto;
