@@ -40,13 +40,13 @@ P3S3 is primarily aimed at PhD students, as well as early-stage researchers, and
 
 Participants will also have the opportunity to present a poster.
 
+🏆A Best Poster Award will be awarded to recognize the most outstanding poster presentation.
+
 ## Application and Registration
 
 ## A 2-step procedure
 To participate in the summer school, you will first have to apply, and then, after a review process, you will receive a link to register.
 We welcome European applications, and a few “housing” grants will be allocated to support PhD students, covering housing and registration fees.
-
-🏆A Best Poster Award will be awarded to recognize the most outstanding poster presentation.
 
 ## Application 
 Depending on your status, information will be asked: 
