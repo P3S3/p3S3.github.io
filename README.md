@@ -42,6 +42,14 @@ Participants will also have the opportunity to present a poster.
 
 🏆A Best Poster Award will be awarded to recognize the most outstanding poster presentation.
 
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width:30%;"
+    src="./Images/Logo-P3S3.png" 
+    alt="Logo P3S3">
+
 ## Application and Registration
 
 ## A 2-step procedure
