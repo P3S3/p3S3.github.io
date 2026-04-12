@@ -122,5 +122,5 @@ More information about the program [here](https://p3s3.github.io/program).
            margin-left: auto;
            margin-right: auto;
            width: 90%;"
-    src="./Images/Logo-Sponsors.png" 
+    src="./Images/Logo-sponsors-3.png" 
     alt="Logo sponsors">
