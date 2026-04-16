@@ -67,7 +67,7 @@ There will be two rounds for applications:
     * Until March 30 (23:59 Paris time).
     * Notification of acceptance: after April 15. 
 * Second round:
-    * From April 1 to April 15 (23:59 Paris time).
+    * From April 1 to April 24 (23:59 Paris time).
     * Notification of acceptance: after May 4. 
 
 Application form: [https://admin-sphinx.universite-paris-saclay.fr/SurveyServer/s/GSchimieCompSci/InscriptionP3S3-school/questionnaire.htm](https://admin-sphinx.universite-paris-saclay.fr/SurveyServer/s/GSchimieCompSci/InscriptionP3S3-school/questionnaire.htm)
