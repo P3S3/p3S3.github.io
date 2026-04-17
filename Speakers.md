@@ -1,4 +1,4 @@
-## Lecturers
+## Speakers
 * **Belguith Sana**, *School of Computer Science, the University of Bristol, UK* <br>
 
 * **Besson Frédéric**, *Inria, Univ Rennes, CNRS, IRISA* <br>
@@ -31,5 +31,6 @@ The wallet is intended to allow users to maintain control over their identity an
 
 
 * **Palamidessi Catuscia**, *LIX, INRIA Saclay, IPP* <br>
+
   
 More information about the program [here](https://p3s3.github.io/program).
