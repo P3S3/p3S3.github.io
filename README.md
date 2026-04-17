@@ -90,7 +90,7 @@ If you need a bill, ask us, and be aware that there may be a delay.
 ## Important Dates
 * First round application deadline: March 30.
 * Notification of acceptance: after April 15. 
-* Second round application deadline: April 15.
+* Second round application deadline: April 24.
 * Notification of acceptance: after May 4. 
 * **School: June 1-5, 2026**     
 
