@@ -42,6 +42,9 @@ Participants will also have the opportunity to present a poster.
 
 🏆A Best Poster Award will be awarded to recognize the most outstanding poster presentation.
 
+
+More information about the program [here](https://p3s3.github.io/program).
+
 <img 
     style="display: block; 
            margin-left: auto;
@@ -107,8 +110,8 @@ All deadlines are in UTC+1 (Paris time).
 * **[Izabachène Malika](https://izama.github.io/)** - ETIS, CY Cergy Paris Université, ENSEA, CNRS  
 * **[Levallois-Barth Claire](https://www.imt-atlantique.fr/fr/personne/claire-levallois-barth)** - IMT Atlantique
 * **[Palamidessi Catuscia](https://www.lix.polytechnique.fr/~catuscia/)** - LIX, INRIA Saclay, IPP
-  
-More information about the program [here](https://p3s3.github.io/program).
+
+More informations about the speakers [here](https://p3S3.github.io/Lecturers).
 
 ## Organizers
 * **[Ionica Sorina](https://home.mis.u-picardie.fr/~ionica/)** - LMV, UVSQ, Université Paris-Saclay
