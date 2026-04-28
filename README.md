@@ -119,7 +119,9 @@ More informations about the speakers [here](https://p3S3.github.io/Speakers).
 * **[Laveau Marie](https://laveaumarie.github.io)** - GS ISN, Université Paris-Saclay
 * **[Racouchot Maïwenn](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dblp.org/pid/353/7545&ved=2ahUKEwiro62JoruTAxXYQ6QEHYh3FFwQFnoECB8QAQ&usg=AOvVaw0KugDbwU1MCjXNpM9FNfsA)** - LMF, Université Paris-Saclay
 * **[Signoles Julien](https://julien-signoles.fr)** - CEA List, Université Paris-Saclay
-  
+
+
+This summer school is financially supported by the [PEPR Cybersecurity](https://www.pepr-cybersecurite.fr/).
 <img 
     style="display: block; 
            margin-left: auto;
