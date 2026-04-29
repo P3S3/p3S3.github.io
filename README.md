@@ -1,7 +1,7 @@
 [**Description**](#description)
 | [**Application and Registration**](#application-and-registration)
 | [**Important Dates**](#important-dates)
-| [**Lecturers**](#lecturers)
+| [**Invited Speakers**](#invited-speakers)
 
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
 
@@ -99,7 +99,7 @@ If you need a bill, ask us, and be aware that there may be a delay.
 
 All deadlines are in UTC+1 (Paris time). 
 
-## Lecturers
+## Invited Speakers
 * **[Belguith Sana](https://www.bristol.ac.uk/people/person/Sana-Belguith-697f20a9-c9f2-4b7b-b2c7-a68f10fca1a4/)** - School of Computer Science, the University of Bristol, UK
 * **[Besson Frédéric](https://people.rennes.inria.fr/Frederic.Besson/)** - Inria, Univ Rennes, CNRS, IRISA
 * **[Boudguiga Aymen](https://aymen0b.github.io/)** - CEA LIST, Université Paris-Saclay                                                       
