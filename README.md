@@ -2,8 +2,7 @@
 | [**Application and Registration**](#application-and-registration)
 | [**Important Dates**](#important-dates)
 | [**Invited Speakers**](#invited-speakers)
-| [**Program**](#program)
-
+| [**Program**](https://p3s3.github.io/program)
 
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
 
