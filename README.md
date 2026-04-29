@@ -1,7 +1,7 @@
 [**Description**](#description)
 | [**Application and Registration**](#application-and-registration)
 | [**Important Dates**](#important-dates)
-| [**Invited Speakers**](#invited-speakers)
+| [**Invited Speakers**](https://p3s3.github.io/Speakers)
 | [**Program**](https://p3s3.github.io/program)
 
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
