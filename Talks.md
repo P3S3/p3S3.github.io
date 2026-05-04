@@ -5,7 +5,7 @@ More information about the program [here](https://p3s3.github.io/program).
  **Cremers Cas**, *CISPA Helmholtz Center for Information Security* <br>
 <ins>Abstract</ins>: <br>
 
-* **<ins>Title</ins>**: <br>
+* **<ins>Title</ins>**: Introduction to Fully Homomorphic Encryption <br>
   **Izabachène Malika**, *ETIS, CY Cergy Paris Université, ENSEA, CNRS* <br>
 
 
