@@ -7,6 +7,8 @@ More information about the program [here](https://p3s3.github.io/program).
 
 * **<ins>Title</ins>**: <br>
   **Izabachène Malika**, *ETIS, CY Cergy Paris Université, ENSEA, CNRS* <br>
+
+
 <ins>Abstract</ins>: Fully homomorphic encryption is an advanced techniques that allows computations to be performed on encrypted data without having to decrypt it. Thus, data confidentiality remains guaranteed, even when the data is processed in encrypted form by a third party.This course will provide an introduction to fully homomorphic encryption, with a particular focus on schemes based on the Learning With Errors problem. We will present the algorithmic mechanisms used to control the noise inherent to most of the FHE schemes, as well as the techniques that enable different types of computations to be carried out on encrypted data. <br>
 <ins>Biography</ins>: Malika Izabachene is an Associate Professor with the ICI team at ETIS laboratory and with the Department of Computer Science at Cergy Paris University.
 Her research focuses on cryptography, with emphasis on homomorphic encryption, post-quantum cryptography, and privacy-preserving protocols, aiming to develop secure and practical solutions for privacypreserving applications. From 2020 to 2023, she served as Chief Cryptographer at Cosmian, a Paris-based start-up, overseeing the design of post-quantum cryptographic primitives and secure multi-party computation frameworks.  Prior to that, she was a researcher at CEA, and held postdoctoral positions focusing on electronic voting systems, anonymous credential schemes, and advanced post-quantum cryptography. She received her PhD in 2009 from Université Paris 7, where she conducted her doctoral research on anonymity in cryptographic protocols at ENS Paris.
@@ -18,17 +20,18 @@ Her research focuses on cryptography, with emphasis on homomorphic encryption, p
 * **<ins>Title</ins>**: Beyond SNARKs: Hash-Based Zero-Knowledge for Post-Quantum Signatures  <br>
  **Feneuil Thibauld**, *CryptoExperts* <br>
 
+
 <ins>Abstract</ins>: Zero-knowledge proof systems are a central tool in modern cryptography, enabling the verification of statements without revealing the underlying witness. While many efficient constructions rely on algebraic assumptions such as elliptic curves or pairings, hash-based alternatives provide an attractive route toward post-quantum security, relying only on well-established symmetric primitives.
 Although hash-based proof systems have been studied for nearly a decade, primarily in the context of designing efficient SNARKs, their use for zero-knowledge proofs targeting small statements -where both the witness size and statement complexity are minimal- has only recently gained attention. This line of work was notably initiated by the VOLE-in-the-Head and TC-in-the-Head frameworks, which led to highly compact post-quantum signature schemes derived from MPC-in-the-Head techniques. These constructions introduced efficient methods for committing to and evaluating small polynomials using only symmetric cryptography, relying on structures such as GGM trees and Merkle trees.
 In this lecture, we provide an overview of hash-based proof systems and explain how they can be leveraged to construct efficient post-quantum signature schemes based on a broad range of conservative security assumptions. We then explore how these techniques extend naturally to richer cryptographic functionalities, including ring signatures and blind signatures. Such advanced primitives play a central role in many privacy-enhancing technologies, highlighting the broader potential of hash-based zero-knowledge proofs beyond the traditional SNARK setting.
 
 * **<ins>Title</ins>**: <br>
  **Boudguiga Aymen**, *CEA LIST, Université Paris-Saclay* <br>
-
 <ins>Abstract</ins>: <br>
 
 * **<ins>Title</ins>**: Legal aspects of the European Union Digital Identity Wallets <br>
   **Levallois-Barth Claire**, *IMT Atlantique* <br>
+
 
 <ins>Abstract</ins>: To address the challenges posed by identity theft, fraud, and cyberattacks such as phishing, the European Union adopted the eIDAS 2 Regulation in 2024. By the end of 2026, every citizen and resident of the EU will be able to have access to a European Digital Identity Wallet, interoperable across all the EU Member States. In France, this wallet will take the form of France Identité. It will enable users to store on their smartphones their digital identity data (such as surname, first name, date of birth, nationality …), electronic attestations of attributes (including a driving license, passport, medical prescription, transport tickets, and others), and even to sign electronically. The so-called qualified electronic signature will thereby have the same legal value as a handwritten signature.
 The wallet is intended to allow users to maintain control over their identity and personal data, and to access cross-border public and private digital services. The implementation of this pan-European infrastructure requires overcoming a substantial number of obstacles, both with respect to the wallets themselves and to the services provided through them. In particular, personal data must be processed in accordance with the GDPR. This entails, among other things, the implementation of privacy-enhancing technologies and the assurance of the security of the entire system. In that sense, each wallet must obtain a cybersecurity certification before its launch.     
@@ -36,6 +39,8 @@ The wallet is intended to allow users to maintain control over their identity an
 
 * **<ins>Title</ins>**: How to design a secure electronic voting protocol?  <br>
   **Debant Alexandre**, *Inria, Nancy* <br>
+
+
 <ins>Abstract</ins>: Electronic voting is becoming a standard practice in our digital societies. It is employed for low-stakes elections, such as those held in schools, sports associations, and other similar contexts. However, it is also utilized in more critical settings, including professional elections and politically binding elections in numerous countries, such as Switzerland, Estonia, the United States, and France.
 During this lecture, we try to answer the question: how to design a secure electronic voting protocol?
 To achieve this, we will first recall what an electronic voting scheme is and define the security properties that are desirable for it.
@@ -44,14 +49,20 @@ Throughout the lecture, we will allocate time to analyze the security of real-wo
 
 * **<ins>Title</ins>**: Navigating the Privacy-Utility Trade-off: An Introduction to Privacy-Enhancing Technologies (PETs) <br>
   **Belguith Sana**, *School of Computer Science, the University of Bristol, UK* <br>
+
+
 <ins>Abstract</ins>: As our digital infrastructure becomes increasingly decentralized and data-driven, the traditional perimeter-based approach to personal data protection is no longer sufficient to ensure individual privacy. This talk explores the paradigm shift toward Privacy-Enhancing Technologies (PETs), a suite of mathematical and computational tools designed to protect sensitive information.The session will bridge the gap between theory and practice by discussing PETS real-world deployments in various domains, while also addressing the inherent trade-offs in privacy preservation, computational overhead, data accuracy and data utility. Participants will leave with a clear framework for evaluating which PETs are most suitable for specific data-sharing challenges. We will also discuss interdisciplinary approaches to privacy while exploring the legal frameworks such as GDPR, in addition to discussing emergent privacy challenges such as privacy preservation in machine learning applications.
 
 * **<ins>Title</ins>**: Information Flow - static analysis, dynamic monitoring and compiler preservation  <br>
   **Besson Frédéric**, *Inria, Univ Rennes, CNRS, IRISA* <br>
+
+
 <ins>Abstract</ins>: Confidentiality is a fundamental security property which can be rephrased as an information flow property - intuitively secret information should not leak. We will focus on the strongest property,non-interference, which states that there should be no flow of information from secret data to public data.  Starting from the seminal work of Bell and LaPadula, we will investigate how to state and verify non-interference using  type systems. We will then consider dynamic information flow tracking and ways to combine static and dynamic information flow tracking. We will also cover the preservation of information flow properties through compilation and study the case of constant-time programming. This programming discipline can be formalised as a non-interference property and is essential to protect cryptographic implementations from timing attacks.
                                             
 * **<ins>Title</ins>**: Foundations and Frontiers of Quantitative Information Flow <br>
   **Palamidessi Catuscia**, *INRIA* <br>
+
+
 <ins>Abstract</ins>: Traditional Information Flow treats security as a binary property: a system is either secure or it isn't. However, in modern computing, some leakage is often inevitable. Quantitative Information Flow (QIF) provides the mathematical rigor to move beyond "if" a system leaks to "how much" it leaks, using information-theoretic tools to bound the threat. This tutorial introduces the g-leakage framework, a generalized approach that models adversary threats through diverse gain functions. We will explore the field's most celebrated results, specifically the Miracle Theorem, which reveals a surprising upper bound for the leakage of any system in terms of the Bayes risk, and the validation of the Coriaceous Conjecture via the McIver-Morgan-Smith theorem. The latter establishes a bridge between the operational security of a system and the structural properties of its information-theoretic representation, and can be considered a significant extension of the Blackwell-Sherman-Stein Theorem. Beyond theory, we demonstrate QIF’s utility in evaluating privacy-preserving technologies, including the leakage of searchable encryption and the protections of Differential Privacy (DP). A highlight of the session will be the recent result by Fernandes, Parastoo, and McIver, establishing a formal correspondence between max-leakage and DP, effectively unifying computer security and statistical privacy.
 
   
