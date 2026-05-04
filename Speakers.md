@@ -12,7 +12,13 @@
 * **Cremers Cas**, *CISPA Helmholtz Center for Information Security* <br>
   
 * **Debant Alexandre**, *Inria, Nancy* <br>
-  
+<ins>Title</ins>: How to design a secure electronic voting protocol?  <br>
+<ins>Abstract</ins>: Electronic voting is becoming a standard practice in our digital societies. It is employed for low-stakes elections, such as those held in schools, sports associations, and other similar contexts. However, it is also utilized in more critical settings, including professional elections and politically binding elections in numerous countries, such as Switzerland, Estonia, the United States, and France.
+During this lecture, we try to answer the question: how to design a secure electronic voting protocol?
+To achieve this, we will first recall what an electronic voting scheme is and define the security properties that are desirable for it.
+Then, we will review the state-of-the-art techniques commonly employed to attain these objectives and explore how to combine them to design an electronic voting scheme.
+Throughout the lecture, we will allocate time to analyze the security of real-world systems. These concrete exercises will provide us to a deeper understanding of the security concepts involved, uncover common design mistakes made when designing an electronic voting scheme, and understand the actual security provided by current electronic voting schemes.
+
 * **Faonio Antonio**, *EURECOM, Sophia Antipolis*  <br>
                                     
 * **Feneuil Thibauld**, *CryptoExperts* <br>
