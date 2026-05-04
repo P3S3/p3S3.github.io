@@ -1,7 +1,7 @@
 [**Description**](#description)
 | [**Application and Registration**](#application-and-registration)
 | [**Important Dates**](#important-dates)
-| [**Invited Speakers**](https://p3s3.github.io/Speakers)
+| [**Invited Speakers**](https://p3s3.github.io/Talks)
 | [**Program**](https://p3s3.github.io/program)
 
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
@@ -112,7 +112,7 @@ All deadlines are in UTC+1 (Paris time).
 * **[Levallois-Barth Claire](https://www.imt-atlantique.fr/fr/personne/claire-levallois-barth)** - IMT Atlantique
 * **[Palamidessi Catuscia](https://www.lix.polytechnique.fr/~catuscia/)** - INRIA
 
-More informations about the talks [here](https://p3S3.github.io/Speakers).
+More informations about the talks [here](https://p3S3.github.io/Talks).
 
 ## Organizers
 * **[Ionica Sorina](https://home.mis.u-picardie.fr/~ionica/)** - LMV, UVSQ, Université Paris-Saclay
