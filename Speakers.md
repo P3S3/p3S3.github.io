@@ -1,4 +1,6 @@
 ## Talks
+More information about the program [here](https://p3s3.github.io/program).
+
 * **Belguith Sana**, *School of Computer Science, the University of Bristol, UK* <br>
 <ins>Title</ins>: Navigating the Privacy-Utility Trade-off: An Introduction to Privacy-Enhancing Technologies (PETs) <br>
 <ins>Abstract</ins>: As our digital infrastructure becomes increasingly decentralized and data-driven, the traditional perimeter-based approach to personal data protection is no longer sufficient to ensure individual privacy. This talk explores the paradigm shift toward Privacy-Enhancing Technologies (PETs), a suite of mathematical and computational tools designed to protect sensitive information.The session will bridge the gap between theory and practice by discussing PETS real-world deployments in various domains, while also addressing the inherent trade-offs in privacy preservation, computational overhead, data accuracy and data utility. Participants will leave with a clear framework for evaluating which PETs are most suitable for specific data-sharing challenges. We will also discuss interdisciplinary approaches to privacy while exploring the legal frameworks such as GDPR, in addition to discussing emergent privacy challenges such as privacy preservation in machine learning applications.
