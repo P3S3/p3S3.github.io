@@ -15,7 +15,7 @@ Her research focuses on cryptography, with emphasis on homomorphic encryption, p
 
 * **<ins>Title</ins>**: <br>
  **Faonio Antonio**, *EURECOM, Sophia Antipolis*  <br>
-<ins>Abstract</ins>: <br>
+<ins>Abstract</ins>: This class provides an introduction to modern zero-knowledge proof systems, starting from the fundamental concepts and progressing toward modern constructions. We begin “from zero,” covering the basic definitions of proof systems and argument systems, proofs and arguments of knowledge, and the formal notion of zero knowledge. Classical examples such as the Schnorr protocol will be used to build intuition and illustrate the core ideas behind interactive cryptographic proofs. The second part of the class focuses on modern proof systems. We introduce interactive oracle proofs (IOPs), with particular emphasis on polynomial interactive oracle proofs (PIOPs), which form the foundation of many contemporary zk-SNARK constructions. We will then discuss commitment schemes, and in particular polynomial commitment schemes, highlighting that several different cryptographic assumptions and constructions can be used to realize them.Finally, the class presents a simplified view of Plonk and its underlying PIOP. We will explain how statements expressed as arithmetic circuits can be transformed into systems of polynomial equations, and we will introduce the main building blocks of the Plonk protocol. The goal of the class is to provide participants with both the theoretical foundations and the conceptual tools needed to understand modern zero-knowledge proof systems. <br>
 
 * **<ins>Title</ins>**: Beyond SNARKs: Hash-Based Zero-Knowledge for Post-Quantum Signatures  <br>
  **Feneuil Thibauld**, *CryptoExperts* <br>
