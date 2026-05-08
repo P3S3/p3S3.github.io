@@ -1,9 +1,14 @@
 ## Talks
 More information about the program [here](https://p3s3.github.io/program).
 
-* **<ins>Title</ins>**: <br>
+* **<ins>Title</ins>**: The future of security protocol analysis: Towards provable guarantees for apps? <br>
  **Cremers Cas**, *CISPA Helmholtz Center for Information Security* <br>
-<ins>Abstract</ins>: <br>
+
+
+<ins>Abstract</ins>: There exist a range of modern methodologies in the domain of formal security analysis for protocols, together with decades of research into real-world applications, including TLS 1.3, EMV (Chip and pin), Wifi, 5G, Signal, iMessage, MLS, SPDM, and Matrix. These developments have helped to improve real-world security mechanisms and caught many potential attacks early. However, we are far from done. Using an example from secure messaging we show that users may get weaker guarantees from their apps than they might expect. However, we also show that some of these guarantees, such as PCS, fundamentally cannot be achieved in robust real-world applications. These two observations highlight the need for methodology that can analyze security of not just protocols, but also of larger systems.
+We will show some recent developments that try and tackle these challenges, and how we might be able to move forward as a scientific community, to ultimately improve the security and privacy guarantees for end-users. <br>
+<ins>Biography</ins>: Prof. Dr. Cas Cremers is faculty member at the CISPA Helmholtz Center for Information Security in Saarbruecken, Germany. He obtained his PhD in 2006 from Eindhoven University of Technology in the Netherlands. From 2006 to 2013 he was a postdoctoral researcher, and senior researcher and lecturer, at ETH Zurich in Switzerland. In 2013 he moved to the University of Oxford as an Associate Professor, and became full Professor at the University of Oxford in 2015. In 2018 he joined CISPA in Germany. His work includes co-developing the Scyther tool and the Tamarin prover for the analysis of security protocols, and working on provable foundations for secure messaging, including the first proofs of the Signal protocol. He contributed to the development of IETF's TLS 1.3 and MLS, and many other protocols. He served as PC co-chair of ACM CCS 2022 and 2023. He was awarded the 2026 IACR Levchin Prize for Real-World Cryptography as part of the Tamarin team. <br>
+
 
 * **<ins>Title</ins>**: Introduction to Fully Homomorphic Encryption <br>
   **Izabachène Malika**, *ETIS, CY Cergy Paris Université, ENSEA, CNRS* <br>
