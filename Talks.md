@@ -1,6 +1,8 @@
 ## Talks
 More information about the program [here](https://p3s3.github.io/program).
 
+
+**Monday from 9:30 to 10:45; then from 11:15 to 12:45** :
 * **<ins>Title</ins>**: The future of security protocol analysis: Towards provable guarantees for apps? <br>
  **Cremers Cas**, *CISPA Helmholtz Center for Information Security* <br>
 
@@ -10,6 +12,9 @@ We will show some recent developments that try and tackle these challenges, and 
 <ins>Biography</ins>: Prof. Dr. Cas Cremers is faculty member at the CISPA Helmholtz Center for Information Security in Saarbruecken, Germany. He obtained his PhD in 2006 from Eindhoven University of Technology in the Netherlands. From 2006 to 2013 he was a postdoctoral researcher, and senior researcher and lecturer, at ETH Zurich in Switzerland. In 2013 he moved to the University of Oxford as an Associate Professor, and became full Professor at the University of Oxford in 2015. In 2018 he joined CISPA in Germany. His work includes co-developing the Scyther tool and the Tamarin prover for the analysis of security protocols, and working on provable foundations for secure messaging, including the first proofs of the Signal protocol. He contributed to the development of IETF's TLS 1.3 and MLS, and many other protocols. He served as PC co-chair of ACM CCS 2022 and 2023. He was awarded the 2026 IACR Levchin Prize for Real-World Cryptography as part of the Tamarin team. <br>
 
 
+
+
+**Monday from 2:00 PM to 4:00 PM and Wednesday from 9:00 to 10:30 AM.** :
 * **<ins>Title</ins>**: Introduction to Fully Homomorphic Encryption <br>
   **Izabachène Malika**, *ETIS, CY Cergy Paris Université, ENSEA, CNRS* <br>
 
@@ -18,6 +23,8 @@ We will show some recent developments that try and tackle these challenges, and 
 <ins>Biography</ins>: Malika Izabachene is an Associate Professor with the ICI team at ETIS laboratory and with the Department of Computer Science at Cergy Paris University.
 Her research focuses on cryptography, with emphasis on homomorphic encryption, post-quantum cryptography, and privacy-preserving protocols, aiming to develop secure and practical solutions for privacypreserving applications. From 2020 to 2023, she served as Chief Cryptographer at Cosmian, a Paris-based start-up, overseeing the design of post-quantum cryptographic primitives and secure multi-party computation frameworks.  Prior to that, she was a researcher at CEA, and held postdoctoral positions focusing on electronic voting systems, anonymous credential schemes, and advanced post-quantum cryptography. She received her PhD in 2009 from Université Paris 7, where she conducted her doctoral research on anonymity in cryptographic protocols at ENS Paris.
 
+
+**Tuesday from 9:00 to 10:30 AM and then from 11:00 to 12:30** :
 * **<ins>Title</ins>**: Zero-Knowledge Proofs <br>
 **Faonio Antonio**, *EURECOM, Sophia Antipolis*  <br>
 
