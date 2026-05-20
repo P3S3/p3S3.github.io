@@ -47,6 +47,8 @@ In this lecture, we provide an overview of hash-based proof systems and explain 
  **Boudguiga Aymen**, *CEA LIST, Université Paris-Saclay* <br>
 <ins>Abstract</ins>: <br>
 
+
+**Wednesday from 2:00 PM to 4:00 PM** :
 * **<ins>Title</ins>**: Legal aspects of the European Union Digital Identity Wallets <br>
   **Levallois-Barth Claire**, *IMT Atlantique* <br>
 
@@ -55,6 +57,8 @@ In this lecture, we provide an overview of hash-based proof systems and explain 
 The wallet is intended to allow users to maintain control over their identity and personal data, and to access cross-border public and private digital services. The implementation of this pan-European infrastructure requires overcoming a substantial number of obstacles, both with respect to the wallets themselves and to the services provided through them. In particular, personal data must be processed in accordance with the GDPR. This entails, among other things, the implementation of privacy-enhancing technologies and the assurance of the security of the entire system. In that sense, each wallet must obtain a cybersecurity certification before its launch.     
 <ins>Biography</ins>: Claire Levallois-Barth, professor of Public law at IMT Atlantique, Holder of the Research Chairs Values and Policies of Personnel Information and Data Common, Work Package Leader in the EU project APTITUDE on EU Digital Identity Wallet, WP 7 Compliance, European Values and Civil Society.
 
+
+**Thursday from 9:00 to 10:30 and 11:00 to 12:30** :
 * **<ins>Title</ins>**: How to design a secure electronic voting protocol?  <br>
   **Debant Alexandre**, *Inria, Nancy* <br>
 
@@ -65,18 +69,22 @@ To achieve this, we will first recall what an electronic voting scheme is and de
 Then, we will review the state-of-the-art techniques commonly employed to attain these objectives and explore how to combine them to design an electronic voting scheme.
 Throughout the lecture, we will allocate time to analyze the security of real-world systems. These concrete exercises will provide us to a deeper understanding of the security concepts involved, uncover common design mistakes made when designing an electronic voting scheme, and understand the actual security provided by current electronic voting schemes.
 
+**Thursday from 2:00 PM to 3:30 PM and then 4:00 PM to 5:00 PM** :
 * **<ins>Title</ins>**: Navigating the Privacy-Utility Trade-off: An Introduction to Privacy-Enhancing Technologies (PETs) <br>
   **Belguith Sana**, *School of Computer Science, the University of Bristol, UK* <br>
 
 
 <ins>Abstract</ins>: As our digital infrastructure becomes increasingly decentralized and data-driven, the traditional perimeter-based approach to personal data protection is no longer sufficient to ensure individual privacy. This talk explores the paradigm shift toward Privacy-Enhancing Technologies (PETs), a suite of mathematical and computational tools designed to protect sensitive information.The session will bridge the gap between theory and practice by discussing PETS real-world deployments in various domains, while also addressing the inherent trade-offs in privacy preservation, computational overhead, data accuracy and data utility. Participants will leave with a clear framework for evaluating which PETs are most suitable for specific data-sharing challenges. We will also discuss interdisciplinary approaches to privacy while exploring the legal frameworks such as GDPR, in addition to discussing emergent privacy challenges such as privacy preservation in machine learning applications.
 
+
+**Friday from 9:00 to 10:30 and then 11:00 to 12:30** :
 * **<ins>Title</ins>**: Information Flow - static analysis, dynamic monitoring and compiler preservation  <br>
   **Besson Frédéric**, *Inria, Univ Rennes, CNRS, IRISA* <br>
 
 
 <ins>Abstract</ins>: Confidentiality is a fundamental security property which can be rephrased as an information flow property - intuitively secret information should not leak. We will focus on the strongest property,non-interference, which states that there should be no flow of information from secret data to public data.  Starting from the seminal work of Bell and LaPadula, we will investigate how to state and verify non-interference using  type systems. We will then consider dynamic information flow tracking and ways to combine static and dynamic information flow tracking. We will also cover the preservation of information flow properties through compilation and study the case of constant-time programming. This programming discipline can be formalised as a non-interference property and is essential to protect cryptographic implementations from timing attacks.
-                                            
+
+**Friday from 2:00 PM to 3:30 PM and then 4:00 PM to 5:30 PM** :                                      
 * **<ins>Title</ins>**: Foundations and Frontiers of Quantitative Information Flow <br>
   **Palamidessi Catuscia**, *INRIA* <br>
 
