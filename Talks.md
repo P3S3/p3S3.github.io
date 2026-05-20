@@ -41,6 +41,8 @@ Her research focuses on cryptography, with emphasis on homomorphic encryption, p
 Although hash-based proof systems have been studied for nearly a decade, primarily in the context of designing efficient SNARKs, their use for zero-knowledge proofs targeting small statements -where both the witness size and statement complexity are minimal- has only recently gained attention. This line of work was notably initiated by the VOLE-in-the-Head and TC-in-the-Head frameworks, which led to highly compact post-quantum signature schemes derived from MPC-in-the-Head techniques. These constructions introduced efficient methods for committing to and evaluating small polynomials using only symmetric cryptography, relying on structures such as GGM trees and Merkle trees.
 In this lecture, we provide an overview of hash-based proof systems and explain how they can be leveraged to construct efficient post-quantum signature schemes based on a broad range of conservative security assumptions. We then explore how these techniques extend naturally to richer cryptographic functionalities, including ring signatures and blind signatures. Such advanced primitives play a central role in many privacy-enhancing technologies, highlighting the broader potential of hash-based zero-knowledge proofs beyond the traditional SNARK setting.
 
+
+**Wednesday from 11:00 to 12:30** :
 * **<ins>Title</ins>**: <br>
  **Boudguiga Aymen**, *CEA LIST, Université Paris-Saclay* <br>
 <ins>Abstract</ins>: <br>
