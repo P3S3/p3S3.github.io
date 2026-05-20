@@ -2,7 +2,7 @@
 More information about the program [here](https://p3s3.github.io/program).
 
 
-**Monday from 9:30 to 10:45; then from 11:15 to 12:45** :
+**Monday from 9:30 AM to 10:45 AM; then from 11:15 AM to 12:45 PM** :
 * **<ins>Title</ins>**: The future of security protocol analysis: Towards provable guarantees for apps? <br>
  **Cremers Cas**, *CISPA Helmholtz Center for Information Security* <br>
 
@@ -14,7 +14,7 @@ We will show some recent developments that try and tackle these challenges, and 
 
 
 
-**Monday from 2:00 PM to 4:00 PM and Wednesday from 9:00 to 10:30 AM** :
+**Monday from 2:00 PM to 4:00 PM; and Wednesday from 9:00 AM to 10:30 AM** :
 * **<ins>Title</ins>**: Introduction to Fully Homomorphic Encryption <br>
   **Izabachène Malika**, *ETIS, CY Cergy Paris Université, ENSEA, CNRS* <br>
 
@@ -24,7 +24,7 @@ We will show some recent developments that try and tackle these challenges, and 
 Her research focuses on cryptography, with emphasis on homomorphic encryption, post-quantum cryptography, and privacy-preserving protocols, aiming to develop secure and practical solutions for privacypreserving applications. From 2020 to 2023, she served as Chief Cryptographer at Cosmian, a Paris-based start-up, overseeing the design of post-quantum cryptographic primitives and secure multi-party computation frameworks.  Prior to that, she was a researcher at CEA, and held postdoctoral positions focusing on electronic voting systems, anonymous credential schemes, and advanced post-quantum cryptography. She received her PhD in 2009 from Université Paris 7, where she conducted her doctoral research on anonymity in cryptographic protocols at ENS Paris.
 
 
-**Tuesday from 9:00 to 10:30 AM and then from 11:00 to 12:30** :
+**Tuesday from 9:00 AM to 10:30 AM; then from 11:00 AM to 12:30 PM** :
 * **<ins>Title</ins>**: Zero-Knowledge Proofs <br>
 **Faonio Antonio**, *EURECOM, Sophia Antipolis*  <br>
 
@@ -32,7 +32,7 @@ Her research focuses on cryptography, with emphasis on homomorphic encryption, p
 <ins>Abstract</ins>: This class provides an introduction to modern zero-knowledge proof systems, starting from the fundamental concepts and progressing toward modern constructions. We begin “from zero,” covering the basic definitions of proof systems and argument systems, proofs and arguments of knowledge, and the formal notion of zero knowledge. Classical examples such as the Schnorr protocol will be used to build intuition and illustrate the core ideas behind interactive cryptographic proofs. The second part of the class focuses on modern proof systems. We introduce interactive oracle proofs (IOPs), with particular emphasis on polynomial interactive oracle proofs (PIOPs), which form the foundation of many contemporary zk-SNARK constructions. We will then discuss commitment schemes, and in particular polynomial commitment schemes, highlighting that several different cryptographic assumptions and constructions can be used to realize them.Finally, the class presents a simplified view of Plonk and its underlying PIOP. We will explain how statements expressed as arithmetic circuits can be transformed into systems of polynomial equations, and we will introduce the main building blocks of the Plonk protocol. The goal of the class is to provide participants with both the theoretical foundations and the conceptual tools needed to understand modern zero-knowledge proof systems. <br>
 
 
-**Tuesday from 2:00 PM to 3:30 PM and then from 4:00 PM to 5:00 PM** :
+**Tuesday from 2:00 PM to 3:30 PM; then from 4:00 PM to 5:00 PM** :
 * **<ins>Title</ins>**: Beyond SNARKs: Hash-Based Zero-Knowledge for Post-Quantum Signatures  <br>
  **Feneuil Thibauld**, *CryptoExperts* <br>
 
@@ -42,7 +42,7 @@ Although hash-based proof systems have been studied for nearly a decade, primari
 In this lecture, we provide an overview of hash-based proof systems and explain how they can be leveraged to construct efficient post-quantum signature schemes based on a broad range of conservative security assumptions. We then explore how these techniques extend naturally to richer cryptographic functionalities, including ring signatures and blind signatures. Such advanced primitives play a central role in many privacy-enhancing technologies, highlighting the broader potential of hash-based zero-knowledge proofs beyond the traditional SNARK setting.
 
 
-**Wednesday from 11:00 to 12:30** :
+**Wednesday from 11:00 AM to 12:30 PM** :
 * **<ins>Title</ins>**: <br>
  **Boudguiga Aymen**, *CEA LIST, Université Paris-Saclay* <br>
 <ins>Abstract</ins>: <br>
@@ -58,7 +58,7 @@ The wallet is intended to allow users to maintain control over their identity an
 <ins>Biography</ins>: Claire Levallois-Barth, professor of Public law at IMT Atlantique, Holder of the Research Chairs Values and Policies of Personnel Information and Data Common, Work Package Leader in the EU project APTITUDE on EU Digital Identity Wallet, WP 7 Compliance, European Values and Civil Society.
 
 
-**Thursday from 9:00 to 10:30 and 11:00 to 12:30** :
+**Thursday from 9:00 AM to 10:30 AM; then from 11:00 AM to 12:30 PM** :
 * **<ins>Title</ins>**: How to design a secure electronic voting protocol?  <br>
   **Debant Alexandre**, *Inria, Nancy* <br>
 
@@ -69,7 +69,7 @@ To achieve this, we will first recall what an electronic voting scheme is and de
 Then, we will review the state-of-the-art techniques commonly employed to attain these objectives and explore how to combine them to design an electronic voting scheme.
 Throughout the lecture, we will allocate time to analyze the security of real-world systems. These concrete exercises will provide us to a deeper understanding of the security concepts involved, uncover common design mistakes made when designing an electronic voting scheme, and understand the actual security provided by current electronic voting schemes.
 
-**Thursday from 2:00 PM to 3:30 PM and then 4:00 PM to 5:00 PM** :
+**Thursday from 2:00 PM to 3:30 PM; then from 4:00 PM to 5:00 PM** :
 * **<ins>Title</ins>**: Navigating the Privacy-Utility Trade-off: An Introduction to Privacy-Enhancing Technologies (PETs) <br>
   **Belguith Sana**, *School of Computer Science, the University of Bristol, UK* <br>
 
@@ -77,14 +77,14 @@ Throughout the lecture, we will allocate time to analyze the security of real-wo
 <ins>Abstract</ins>: As our digital infrastructure becomes increasingly decentralized and data-driven, the traditional perimeter-based approach to personal data protection is no longer sufficient to ensure individual privacy. This talk explores the paradigm shift toward Privacy-Enhancing Technologies (PETs), a suite of mathematical and computational tools designed to protect sensitive information.The session will bridge the gap between theory and practice by discussing PETS real-world deployments in various domains, while also addressing the inherent trade-offs in privacy preservation, computational overhead, data accuracy and data utility. Participants will leave with a clear framework for evaluating which PETs are most suitable for specific data-sharing challenges. We will also discuss interdisciplinary approaches to privacy while exploring the legal frameworks such as GDPR, in addition to discussing emergent privacy challenges such as privacy preservation in machine learning applications.
 
 
-**Friday from 9:00 to 10:30 and then 11:00 to 12:30** :
+**Friday from 9:00 AM to 10:30 AM; then from 11:00 AM to 12:30 PM** :
 * **<ins>Title</ins>**: Information Flow - static analysis, dynamic monitoring and compiler preservation  <br>
   **Besson Frédéric**, *Inria, Univ Rennes, CNRS, IRISA* <br>
 
 
 <ins>Abstract</ins>: Confidentiality is a fundamental security property which can be rephrased as an information flow property - intuitively secret information should not leak. We will focus on the strongest property,non-interference, which states that there should be no flow of information from secret data to public data.  Starting from the seminal work of Bell and LaPadula, we will investigate how to state and verify non-interference using  type systems. We will then consider dynamic information flow tracking and ways to combine static and dynamic information flow tracking. We will also cover the preservation of information flow properties through compilation and study the case of constant-time programming. This programming discipline can be formalised as a non-interference property and is essential to protect cryptographic implementations from timing attacks.
 
-**Friday from 2:00 PM to 3:30 PM and then 4:00 PM to 5:30 PM** :                                      
+**Friday from 2:00 PM to 3:30 PM; then from 4:00 PM to 5:30 PM** :                                      
 * **<ins>Title</ins>**: Foundations and Frontiers of Quantitative Information Flow <br>
   **Palamidessi Catuscia**, *INRIA* <br>
 
