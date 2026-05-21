@@ -43,9 +43,11 @@ In this lecture, we provide an overview of hash-based proof systems and explain 
 
 
 **Wednesday from 11:00 AM to 12:30 PM**:
-* **<ins>Title</ins>**: <br>
+* **<ins>Title</ins>**: On the application of fully homomorphic encryption<br>
  **Boudguiga Aymen**, *CEA LIST, Université Paris-Saclay* <br>
-<ins>Abstract</ins>: <br>
+
+
+<ins>Abstract</ins>: Nowadays, Fully Homomorphic Encryption (FHE) is well-established among privacy-enhancing technologies, as it enables computation directly on encrypted data. In this talk, we will discuss the programming constraints that arise when handling data encrypted under FHE. We will then explore key applications of FHE, including privacy-preserving AI, oblivious computing, and transciphering.<br>
 
 
 **Wednesday from 2:00 PM to 4:00 PM**:
