@@ -14,7 +14,7 @@ We will show some recent developments that try and tackle these challenges, and 
 
 
 
-**Monday from 2:00 PM to 4:00 PM; and Wednesday from 9:00 AM to 10:30 AM**:
+**Monday from 2:00 PM to 4:00 PM;
 * **<ins>Title</ins>**: Introduction to Fully Homomorphic Encryption <br>
   **Izabachène Malika**, *ETIS, CY Cergy Paris Université, ENSEA, CNRS* <br>
 
