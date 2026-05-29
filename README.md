@@ -50,7 +50,7 @@ More information about the program [here](https://p3s3.github.io/program).
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width:30%;"
+           width:40%;"
     src="./Images/Logo-P3S3.png" 
     alt="Logo P3S3">
 
